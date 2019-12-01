@@ -24,9 +24,7 @@
 - [Quick-R](https://www.statmethods.net/)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
-- [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
-- [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
-- [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
+
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
@@ -69,3 +67,7 @@
 -[R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
 - [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
 - [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+- [Psychometric Models and Methods](https://cran.r-project.org/web/views/Psychometrics.html)
+- [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
+- [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
+- [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
