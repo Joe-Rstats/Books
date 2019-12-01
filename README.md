@@ -7,8 +7,8 @@
 - [R Search Tools](#R-Search-Tools)
 - [Tidyverse](#Tidyverse)
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
-- [Statistic Websites](#Statistic-Websites)
-- [Statistic Youtube] (#Statistics-Youtube)
+- [Statistics Websites](#Statistics-Websites)
+- [Statistics Youtube] (#Statistics-Youtube)
 - [Dissertation Websites] (#Dissertation-Websites)
 
 
