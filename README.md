@@ -28,6 +28,7 @@
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
 - [List of R blogs](https://www.r-bloggers.com/)
 - [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
+- [Package to Teach you R](https://swirlstats.com/)
 ## Statistics Websites
 
 ## Statistics-Youtube
