@@ -55,7 +55,7 @@
 
 ## List of R Resources
 
-- [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/#blogs) 
+- [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
 ## Statistics Websites
 
 ## Statistics-Youtube
