@@ -27,6 +27,7 @@
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
+- [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
