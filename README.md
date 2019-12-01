@@ -1,8 +1,8 @@
 # R Books and Websites
-##
+
 ## Contents
 
-- [Platforms](#platforms)
+- [R Language Books](#R Language Books)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
