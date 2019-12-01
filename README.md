@@ -12,15 +12,14 @@
 - [Tidyverse](#Tidyverse)
 - [Dissertation Websites](#Dissertation-Websites)
 - [R Packages I like](#R-Packages-I-Like)
-
+- [List of R Functions](#List-of-R-Functions)
 
 ## R Language Books
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
-- [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
-- [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+
 ## R Books With Stats
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
@@ -63,3 +62,8 @@
 
 ## R Packages I Like
 [PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
+
+## List of R Functions
+-[R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
+- [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
+- [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
