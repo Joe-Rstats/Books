@@ -71,3 +71,4 @@
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
 - [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
 - [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
+- [Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
