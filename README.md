@@ -57,7 +57,7 @@
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
-
+[dplyr Tutorial](https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
 ## Dissertation Websites
 - [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
 ## R Packages I Like
