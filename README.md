@@ -1,4 +1,4 @@
-# R Books and Websites
+# R & Stats Books and Websites
 
 ## Contents
 
