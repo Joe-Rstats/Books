@@ -45,6 +45,7 @@
 - [Package to Teach you R](https://swirlstats.com/)
 - [Regression Modeling Strategies](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
 - [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
+- [Videos on Data Analysis with R](http://jeromyanglim.blogspot.com/2010/05/videos-on-data-analysis-with-r.html)
 ## Statistics Websites
 [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 ## Statistics-Youtube
