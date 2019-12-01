@@ -20,7 +20,9 @@
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
 - [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
--[How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
+- [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
+- [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
+- [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -33,7 +35,8 @@
 - [List of R blogs](https://www.r-bloggers.com/)
 - [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
 - [Package to Teach you R](https://swirlstats.com/)
--[Regression Modeling Strategies](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
+- [Regression Modeling Strategies](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
+- [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
 ## Statistics Websites
 
 ## Statistics-Youtube
