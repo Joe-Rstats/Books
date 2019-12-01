@@ -8,8 +8,8 @@
 - [Tidyverse](#Tidyverse)
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 - [Statistics Websites](#Statistics-Websites)
-- [Statistics Youtube] (#Statistics-Youtube)
-- [Dissertation Websites] (#Dissertation-Websites)
+- [Statistics Youtube](#Statistics-Youtube)
+- [Dissertation Websites](#Dissertation-Websites)
 
 
 ## R Language Books
