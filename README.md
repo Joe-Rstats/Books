@@ -35,6 +35,7 @@
 - [Intro to Econometrics with R](https://www.econometrics-with-r.org/)
 - [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
+- [Learning Statistics With R](https://learningstatisticswithr.com/book/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
