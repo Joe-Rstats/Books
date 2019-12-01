@@ -3,30 +3,13 @@
 ## Contents
 
 - [R Language Books](#R-Language-Books)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
+- [R Books with Stats](#R-Books-With-Stats)
+- [R Search Tools](#R-Search-Tools)
+- [Tidyverse](#Tidyverse)
+- [Bookdown/R Markdown](#Bookdown/R-Markdown)
+- [Statistic Websites](#Statistic-Websites)
+- [Statistic Youtube] (#Statistics-Youtube)
+- [Dissertation Websites] (#Dissertation-Websites)
 
 
 ## R Language Books
@@ -62,3 +45,17 @@
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
+
+## R Books With Stats
+
+## R Search Tools
+
+## Tidyverse
+
+## Bookdown/R Markdown
+
+## Statistics Websites
+
+## Statistics Youtube
+
+## Dissertation Websites
