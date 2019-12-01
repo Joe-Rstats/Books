@@ -55,7 +55,8 @@
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 - [R Exercises](https://www.r-exercises.com)
 ## Statistics Websites
-[Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
+- [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
+- [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
