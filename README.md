@@ -21,6 +21,7 @@
 - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
 
 ## R Books With Stats
+- [Quick-R](https://www.statmethods.net/)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
