@@ -5,7 +5,7 @@
 - [R Language Books](#R-Language-Books)
 - [R Books with Stats](#R-Books-With-Stats)
 - [R Search Tools](#R-Search-Tools)
-- [List of R Resources] (#List-of-R-Resources)
+- [List of R Resources](#List-of-R-Resources)
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 - [Statistics Websites](#Statistics-Websites)
 - [Statistics Youtube](#Statistics-Youtube)
