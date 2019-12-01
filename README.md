@@ -32,9 +32,9 @@
 ## R Search Tools
 
 ## Bookdown/R Markdown
-[Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
-[Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)
-[Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
+- [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
+- [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
+- [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
 ## List of R Resources
 
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
