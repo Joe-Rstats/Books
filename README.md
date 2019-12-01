@@ -60,7 +60,7 @@
 ## Tidyverse
 
 ## Dissertation Websites
-
+- [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
 ## R Packages I Like
 [PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
 
