@@ -26,7 +26,7 @@
 - [Quick-R](https://www.statmethods.net/)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
-
+- [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
