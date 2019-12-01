@@ -26,6 +26,7 @@
 - [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
+- [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
 ## R Search Tools
 
 ## Bookdown/R Markdown
