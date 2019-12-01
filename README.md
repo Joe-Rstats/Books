@@ -11,13 +11,14 @@
 - [Statistics Youtube](#Statistics-Youtube)
 - [Tidyverse](#Tidyverse)
 - [Dissertation Websites](#Dissertation-Websites)
-- [R Packages I like] (#R-Packages-I-Like)
+- [R Packages I like](#R-Packages-I-Like)
 
 
 ## R Language Books
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
 ## R Books With Stats
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
@@ -40,7 +41,7 @@
 - [Regression Modeling Strategies](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
 - [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
 ## Statistics Websites
-
+[Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
