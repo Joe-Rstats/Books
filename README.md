@@ -29,6 +29,7 @@
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
 - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/heteroskedasticity.html)
+- [Intro to Econometrics with R](https://www.econometrics-with-r.org/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
