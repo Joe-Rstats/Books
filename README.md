@@ -22,6 +22,7 @@
 - [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
 - [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 ## R Books With Stats
+- [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
 - [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
