@@ -15,7 +15,9 @@
 
 
 ## R Language Books
-[R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
+- [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
+- [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
 ## R Books With Stats
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
