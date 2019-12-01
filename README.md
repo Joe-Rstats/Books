@@ -18,7 +18,8 @@
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
-- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
+- [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
 ## R Books With Stats
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
