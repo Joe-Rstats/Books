@@ -22,7 +22,7 @@
 ## R Search Tools
 
 ## Bookdown/R Markdown
-
+[Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 ## List of R Resources
 
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
