@@ -53,6 +53,7 @@
 - [Videos on Data Analysis with R](http://jeromyanglim.blogspot.com/2010/05/videos-on-data-analysis-with-r.html)
 - [List of Resources](https://noeliagorod.com/2019/04/24/r-resources-free-courses-books-tutorials-cheat-sheets/)
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
+- [R Exercises](https://www.r-exercises.com)
 ## Statistics Websites
 [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 ## Statistics-Youtube
