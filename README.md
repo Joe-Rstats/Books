@@ -5,10 +5,11 @@
 - [R Language Books](#R-Language-Books)
 - [R Books with Stats](#R-Books-With-Stats)
 - [R Search Tools](#R-Search-Tools)
-- [Tidyverse](#Tidyverse)
+- [List of R Resources] (#List-of-R-Resources)
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 - [Statistics Websites](#Statistics-Websites)
 - [Statistics Youtube](#Statistics-Youtube)
+- [Tidyverse](#Tidyverse)
 - [Dissertation Websites](#Dissertation-Websites)
 
 
@@ -50,12 +51,14 @@
 
 ## R Search Tools
 
-## Tidyverse
-
 ## Bookdown/R Markdown
+
+## List of R Resources
 
 ## Statistics Websites
 
 ## Statistics-Youtube
+
+## Tidyverse
 
 ## Dissertation Websites
