@@ -38,6 +38,7 @@
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 
 ## R Books With Stats
+- [R Cookbook](http://rpubs.com/collnell/Rcookbook)
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
 - [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
@@ -62,6 +63,7 @@
 - [Helpful Stat links](http://www.princeton.edu/~otorres/Stata/statnotes)
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
 - [Good youtube R Class](https://www.youtube.com/channel/UCstAS6IpgYgZ9Cvcag_YlCQ/featured)
+- [Intro to data analysis](https://github.com/UCIDataScienceInitiative/IDA-with-R)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -70,7 +72,7 @@
 - [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
 - [Official R markdown site with tutorial](https://rmarkdown.io.com/index.html)
 - [How to R markdown](http://rpubs.com/collnell/howto_rmd)
-
+- [topics in R](https://github.com/UCIDataScienceInitiative/Topics_In_R) -some good markdown stuff
 - [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
 - [Slides](https://geocompr.github.io/user_19/presentation/#12)
 ## List of R Resources
