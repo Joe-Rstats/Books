@@ -55,6 +55,8 @@
 - [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
 - [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
+- [Linear Regression with R](https://dss.princeton.edu/training/Regression101R.pdf)
+- [Helpful Stat links](http://www.princeton.edu/~otorres/Stata/statnotes)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -79,6 +81,7 @@
 ## Statistics Websites
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+- [StatTrek](https://stattrek.com)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
