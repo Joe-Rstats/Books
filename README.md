@@ -1,8 +1,15 @@
 # R & Stats Books and Websites that I think are good.
 
+## Star System
+### No star --> Good
+### One Star :star: --> Great
+### Two stars :star: :star: --> Among the Best
+### Three Stars :star: :star: :star: --> Top Resource in that section
+
+
 ## Contents
 
-- [R Language Books](#R-Language-Books)
+- [R Language Books] (#R-Language-Books)
 - [R Books with Stats](#R-Books-With-Stats)
 - [R Search Tools](#R-Search-Tools)
 - [List of R Resources](#List-of-R-Resources)
@@ -26,6 +33,7 @@
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 ## R Books With Stats
+- [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
@@ -52,12 +60,13 @@
 - [List of R blogs](https://www.r-bloggers.com/)
 - [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
 - [Package to Teach you R](https://swirlstats.com/)
-- [Regression Modeling Strategies](http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
+- [Regression Modeling Strategies] (http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
 - [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
 - [Videos on Data Analysis with R](http://jeromyanglim.blogspot.com/2010/05/videos-on-data-analysis-with-r.html)
 - [List of Resources](https://noeliagorod.com/2019/04/24/r-resources-free-courses-books-tutorials-cheat-sheets/)
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 - [R Exercises](https://www.r-exercises.com)
+- [University of Cincinnati R programming guide](http://uc-r.github.io) - You can download course material by going to the course and then click on the small folder. Some good stuff there.
 ## Statistics Websites
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
