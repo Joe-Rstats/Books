@@ -1,4 +1,4 @@
-# R & Stats Books and Websites
+# R & Stats Books and Websites that I think are good.
 
 ## Contents
 
@@ -13,6 +13,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 - [R Packages I like](#R-Packages-I-Like)
 - [List of R Functions](#List-of-R-Functions)
+- [Miscellaneous](#miscellaneous)
 
 ## R Language Books
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
@@ -21,6 +22,8 @@
 - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
 - [Thee Undergraduare Guide to R](https://2dc76119-a-62cb3a1a-s-sites.googlegroups.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf?attachauth=ANoY7cprKuOTqDa7cWdwB-afAYvksPkZ6i8Y3ZxSgLhOTwMjbNsd8qDAJdxyrGHgBUtplleycdqaxdXVhMDqDcME8BMRPo7V18T1UwRrnxn_NPDWX931OE3x77puUHbDxtRirvRg1T3WENZ1H-N2PlYJIUrfR5qlLBG9BAIi2ZRJJnMgTwav_uCpDgxhjwCgJFOHIwY_5Im9FYhpqQ5NvEEjInA90bIUapE6WCw_k3xmLmu18bC-o8Yq6hDNUeO3aTSiOJuYFYBY&attredirects=1)
 - [Learn R](https://learnxinyminutes.com/docs/r/)
+- [Data wrangling, exploration, and analysis with R](https://stat545.com)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 ## R Books With Stats
 - [Quick-R](https://www.statmethods.net/)
@@ -68,7 +71,7 @@
 [PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
 
 ## List of R Functions
--[R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
+- [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
 - [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
 - [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [Psychometric Models and Methods](https://cran.r-project.org/web/views/Psychometrics.html)
@@ -76,3 +79,7 @@
 - [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
 - [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
 - [Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
+- [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
+
+## miscellaneous
+- [Github for the R user](https://happygitwithr.com)
