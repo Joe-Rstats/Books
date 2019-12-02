@@ -53,6 +53,8 @@
 - [Learning Statistics With R](https://learningstatisticswithr.com/book/)
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
 - [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+- [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
+- [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -60,6 +62,7 @@
 - [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
 - [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
 - [Official R markdown site with tutorial](https://rmarkdown.rstudio.com/index.html)
+- [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
 ## List of R Resources
 
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
