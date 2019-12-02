@@ -24,7 +24,7 @@
 
 ## R Language Books
 
-### Best
+
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
@@ -49,6 +49,7 @@
 - [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Learning Statistics With R](https://learningstatisticswithr.com/book/)
+- [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -94,3 +95,5 @@
 
 ## miscellaneous
 - [Github for the R user](https://happygitwithr.com)
+- [R and Stata code side by side](https://dss.princeton.edu/training/RStata.pdf#page=15)
+- [How to use stargazer](https://dss.princeton.edu/training/NiceOutputR.pdf)
