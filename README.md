@@ -37,8 +37,10 @@
 ## R Books With Stats
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
+- [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
+- [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
@@ -50,6 +52,7 @@
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Learning Statistics With R](https://learningstatisticswithr.com/book/)
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
+- [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -92,8 +95,10 @@
 - [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
 - [Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
+- [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
 
 ## miscellaneous
 - [Github for the R user](https://happygitwithr.com)
 - [R and Stata code side by side](https://dss.princeton.edu/training/RStata.pdf#page=15)
 - [How to use stargazer](https://dss.princeton.edu/training/NiceOutputR.pdf)
+- [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
