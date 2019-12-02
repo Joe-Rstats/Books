@@ -23,6 +23,8 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+
+### Best
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
