@@ -23,6 +23,8 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
+- [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
 - [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
@@ -66,11 +68,9 @@
 - [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 - [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
 - [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
-- [Official R markdown site with tutorial](https://rmarkdown.
+- [Official R markdown site with tutorial](https://rmarkdown.io.com/index.html)
+- [How to R markdown](http://rpubs.com/collnell/howto_rmd)
 
-
-
-io.com/index.html)
 - [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
 - [Slides](https://geocompr.github.io/user_19/presentation/#12)
 ## List of R Resources
