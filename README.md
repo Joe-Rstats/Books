@@ -23,8 +23,8 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
-
-
+- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
+- [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
@@ -33,6 +33,7 @@
 - [Learn R](https://learnxinyminutes.com/docs/r/)
 - [Data wrangling, exploration, and analysis with R](https://stat545.com)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+- [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 
 ## R Books With Stats
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
@@ -57,16 +58,23 @@
 - [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
 - [Linear Regression with R](https://dss.princeton.edu/training/Regression101R.pdf)
 - [Helpful Stat links](http://www.princeton.edu/~otorres/Stata/statnotes)
+- [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
+- [Good youtube R Class](https://www.youtube.com/channel/UCstAS6IpgYgZ9Cvcag_YlCQ/featured)
 ## R Search Tools
 
 ## Bookdown/R Markdown
 - [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 - [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
 - [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
-- [Official R markdown site with tutorial](https://rmarkdown.rstudio.com/index.html)
-- [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
-## List of R Resources
+- [Official R markdown site with tutorial](https://rmarkdown.
 
+
+
+io.com/index.html)
+- [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
+- [Slides](https://geocompr.github.io/user_19/presentation/#12)
+## List of R Resources
+- [Useful slack group for questions](https://www.rfordatasci.com/about/)
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
 - [List of R blogs](https://www.r-bloggers.com/)
 - [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
@@ -82,6 +90,7 @@
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
+- [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
@@ -102,6 +111,7 @@
 - [Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
+- [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 
 ## miscellaneous
 - [Github for the R user](https://happygitwithr.com)
