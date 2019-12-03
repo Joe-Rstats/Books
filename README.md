@@ -9,7 +9,7 @@
 
 ## Contents
 - [R with Stats](#R-With-Stats)
- - [Books] (#Books)
+  - [Books](#Books)
     - [Probability and Statistics](#probability-and-statistics)
     - [Regression](#regression)
     - [Other](#other)
