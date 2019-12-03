@@ -1,5 +1,11 @@
 # R & Stats Books and Websites that I think are good.
 
+## Star System
+### No star --> Good
+### One Star :star: --> Great
+### Two stars :star: :star: --> Among the Best
+### Three Stars :star: :star: :star: --> Top Resource in that section
+
 
 ## Contents
 - [R with Stats](#R-With-Stats)
@@ -9,22 +15,25 @@
     - [Other](#other)
   - [Online Resources](#online-resources)
 - [R Without Stats](#R-Without-Stats)
-
   - [Books](#books)
-    - [Data Visualization Books](#data-visualization-books) 
-    - [Coding Books](#Coding-books)   
-      - [R Markdown](#R-Markdown)
+      - [Data Visualization Books](#data-visualization-books) 
+      - [Coding Books](#Coding-books)   
+          - [R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
-  - [List of R code](#List-of-R-code)
-    - [Statistical Code](#Statistical-code)
-    - [R Code](#R-code)
-- [Staistics Without R](#statistics-without-r)
+   
 
+
+
+- [Staistics Books Without R](#statistics-books-without-r)
+- [List of R Functions](#List-of-R-Functions)
+
+
+- [List of R Resources](#List-of-R-Resources)
 - [Research Design](#Research-design)
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
-- [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. 
+- :Star: [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. 
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
@@ -212,13 +221,20 @@
 - [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
 - [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
-- [Useful slack group for questions](https://www.rfordatasci.com/about/)
-- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
+## Statistics Books Without R
+- [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
+- [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+- [StatTrek](https://stattrek.com)
+- [Introduction to mathematics for political scientists](http://brendancooley.com/imps2019/)
+- [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
+- [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
+- [JB statistics](https://www.jbstatistics.com)
+- [statquest](https://statquest.org/video-index/)
+- [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)
+- [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 
-### List of R Code
-#### Statistical Code
-#### R Code
+## List of R Functions
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
 - [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
@@ -232,20 +248,9 @@
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-
-
-### Statistics Without R
-- [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
-- [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
-- [StatTrek](https://stattrek.com)
-- [Introduction to mathematics for political scientists](http://brendancooley.com/imps2019/)
-- [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
-- [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
-- [JB statistics](https://www.jbstatistics.com)
-- [statquest](https://statquest.org/video-index/)
-- [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)
-- [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
-
+## List of R Resources
+- [Useful slack group for questions](https://www.rfordatasci.com/about/)
+- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
