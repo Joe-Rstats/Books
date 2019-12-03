@@ -29,8 +29,7 @@
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
     - Notes (http://edrub.in/ARE212/index.html)
-- [Advanced statistics class](https://osf.io/q6wnd/)
-- [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
+- [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R.
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
 - [R Models](https://m-clark.github.io/R-models/)
 - [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/)
