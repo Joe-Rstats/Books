@@ -22,9 +22,9 @@
 
 ## R With Stats
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info.
-- [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf)
+- [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd
-- [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1)
+- [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
 - [R Bootcamp](http://seankross.com/rbootcamp/)
 - [R statistics](http://r-statistics.co)
 - [R book](https://bookdown.org/ripberjt/qrmbook/)
