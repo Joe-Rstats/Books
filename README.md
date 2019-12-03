@@ -126,3 +126,4 @@
 - [R and Stata code side by side](https://dss.princeton.edu/training/RStata.pdf#page=15)
 - [How to use stargazer](https://dss.princeton.edu/training/NiceOutputR.pdf)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
+- [Data science Trello](https://trello.com/b/rbpEfMld/data-science)
