@@ -17,10 +17,11 @@
 - [R Without Stats](#R-Without-Stats)
   - [Books](#books)
       - [Data Visualization Books](#data-visualization-books) 
-      - [Coding Books](#Coding-books) 
+      - [Coding Books](#Coding-books)   
+          - R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
    
-- [Bookdown/R Markdown](#Bookdown/R-Markdown)
+
 
 
 - [Staistics Books Without R](#statistics-books-without-r)
@@ -187,22 +188,7 @@
 ### Books
 #### Coding Books
 - [Github for the R user](https://happygitwithr.com)
-#### Data Visualization Books
- - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
- - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
-### Online Resources
-- [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
-- [Package to Teach you R](https://swirlstats.com/)
-- [Rtips](https://twitter.com/rlangtip)
-- [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
-- [RWeekly](https://rweekly.org)
-- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
-- [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
-- [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
-- [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
--
-
-## Bookdown/R Markdown
+##### R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
@@ -221,6 +207,23 @@
 - [R Markdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/)
 - [R markdwon for scientists](https://rmd4sci.njtierney.com)
 - [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+#### Data Visualization Books
+ - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
+ - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+
+### Online Resources
+- [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
+- [Package to Teach you R](https://swirlstats.com/)
+- [Rtips](https://twitter.com/rlangtip)
+- [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
+- [RWeekly](https://rweekly.org)
+- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
+- [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
+- [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
+- [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
+-
+
+
 
 
 ## Statistics Books Without R
