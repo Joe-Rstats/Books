@@ -16,8 +16,8 @@
       - [R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
   - [List of R Functions](#List-of-R-Functions)
-    - [Statistical Functions](#Statistical Functions)
-    - [R Functions](# R Functions)
+    - [Statistical Functions](#Statistical-Functions)
+    - [R Functions](#R-Functions)
 - [Staistics Without R](#statistics-without-r)
 
 - [Research Design](#Research-design)
