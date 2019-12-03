@@ -18,7 +18,7 @@
   - [Books](#books)
       - [Data Visualization Books](#data-visualization-books) 
       - [Coding Books](#Coding-books)   
-          - R Markdown](#R-Markdown)
+          - [R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
    
 
