@@ -38,6 +38,8 @@
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 
 ## R Books With Stats
+- [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
+- [Ton of good stuff here](https://data.princeton.edu)
 - [R Cookbook](http://rpubs.com/collnell/Rcookbook)
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
@@ -75,6 +77,7 @@
 - [topics in R](https://github.com/UCIDataScienceInitiative/Topics_In_R) -some good markdown stuff
 - [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
 - [Slides](https://geocompr.github.io/user_19/presentation/#12)
+- [Markdown tutorial](https://github.com/rstudio-education/communicate-rmd-workshop)
 ## List of R Resources
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
