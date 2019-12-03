@@ -4,9 +4,6 @@
 ## Contents
 - [R with Stats](#R-With-Stats)
   - [Books](#Books)
-    - [Probability and Elementary Statistics](#probability-and-elementary-statistics)
-    - [Regression](#regression)
-    - [Other](#other)
   - [Online Resources](#online-resources)
 - [R Without Stats](#R-Without-Stats)
 
@@ -134,10 +131,9 @@
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Some good codd here](https://designingexperiments.com)
 ### Books
-#### Probability and Elementary Statistics
-#### Regression
+
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
-#### Other
+
 - [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
 ### Online Resources
