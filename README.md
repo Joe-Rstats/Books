@@ -42,6 +42,7 @@
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
 - [Thee Undergraduare Guide to R](https://2dc76119-a-62cb3a1a-s-sites.googlegroups.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf?attachauth=ANoY7cprKuOTqDa7cWdwB-afAYvksPkZ6i8Y3ZxSgLhOTwMjbNsd8qDAJdxyrGHgBUtplleycdqaxdXVhMDqDcME8BMRPo7V18T1UwRrnxn_NPDWX931OE3x77puUHbDxtRirvRg1T3WENZ1H-N2PlYJIUrfR5qlLBG9BAIi2ZRJJnMgTwav_uCpDgxhjwCgJFOHIwY_5Im9FYhpqQ5NvEEjInA90bIUapE6WCw_k3xmLmu18bC-o8Yq6hDNUeO3aTSiOJuYFYBY&attredirects=1)
+- [Analysis of Categorical Data with R](http://www.chrisbilder.com/stat875/chapter.html
 - [Learn R](https://learnxinyminutes.com/docs/r/)
 - [Data wrangling, exploration, and analysis with R](https://stat545.com)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
