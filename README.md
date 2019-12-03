@@ -8,56 +8,20 @@
 
 
 ## Contents
-
-- [R Language Books](#R-Language-Books)
 - [R Books with Stats](#R-Books-With-Stats)
+  - [Probability and Statistics](#probability-and-statistics)
   - [Regression](#regression)
-- [R Search Tools](#R-Search-Tools)
-- [List of R Resources](#List-of-R-Resources)
+- [R Programming Books](#R-programming-Books)
+- [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
-- [Statistics Websites](#Statistics-Websites)
-- [Statistics Youtube](#Statistics-Youtube)
-- [Tidyverse](#Tidyverse)
-- [Dissertation Websites](#Dissertation-Websites)
-- [R Packages I like](#R-Packages-I-Like)
+- [List of R Resources](#List-of-R-Resources)
+- [Staistics Books Without R](#statistics-books-without-r)
 - [List of R Functions](#List-of-R-Functions)
 - [Miscellaneous](#miscellaneous)
+- [Dissertation Websites](#Dissertation-Websites)
 
-## R Language Books
- -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
- -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [Advanced R](https://adv-r.hadley.nz)
-- [R studio Learning](https://resources.rstudio.com)
-- [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
-- [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
-- [Introduction to Data Science](https://beanumber.github.io/sds192/index.html)
-- [Efficient R programming](https://csgillespie.github.io/efficientR/)
-- [Statistical inference via data science](https://moderndive.com) - moderndive 
-- [R for data science](https://r4ds.had.co.nz)
-- [Exploratory data analysis with R](https://bookdown.org/rdpeng/exdata/)
-- [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
-- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
-- [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
-- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
-- [some nyu courses](https://guides.nyu.edu/r)
-- [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
-- [RStudio Primers](https://rstudio.cloud/learn/primers)
-- [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
-- [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
-- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
-- [Thee Undergraduare Guide to R](https://2dc76119-a-62cb3a1a-s-sites.googlegroups.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf?attachauth=ANoY7cprKuOTqDa7cWdwB-afAYvksPkZ6i8Y3ZxSgLhOTwMjbNsd8qDAJdxyrGHgBUtplleycdqaxdXVhMDqDcME8BMRPo7V18T1UwRrnxn_NPDWX931OE3x77puUHbDxtRirvRg1T3WENZ1H-N2PlYJIUrfR5qlLBG9BAIi2ZRJJnMgTwav_uCpDgxhjwCgJFOHIwY_5Im9FYhpqQ5NvEEjInA90bIUapE6WCw_k3xmLmu18bC-o8Yq6hDNUeO3aTSiOJuYFYBY&attredirects=1)
-- [Analysis of Categorical Data with R](http://www.chrisbilder.com/stat875/chapter.html
-- [Learn R](https://learnxinyminutes.com/docs/r/)
-- [Data wrangling, exploration, and analysis with R](https://stat545.com)
-- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
-- [R Bootcamp](https://github.com/rstudio-education/bootcamper)
-- [R Codebook](http://www.cookbook-r.com)
-- [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
-- [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
-- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-- [Intro to R](https://billpetti.github.io/Crash_course_in_R/
 ## R Books With Stats
+### Probability and Statistics
 ### Regression
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
@@ -167,8 +131,42 @@
 - [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Some good codd here](https://designingexperiments.com)
-## R Search Tools
 
+## R Programming Books
+ -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
+ -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+- [Advanced R](https://adv-r.hadley.nz)
+- [R studio Learning](https://resources.rstudio.com)
+- [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+- [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
+- [Introduction to Data Science](https://beanumber.github.io/sds192/index.html)
+- [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- [Statistical inference via data science](https://moderndive.com) - moderndive 
+- [R for data science](https://r4ds.had.co.nz)
+- [Exploratory data analysis with R](https://bookdown.org/rdpeng/exdata/)
+- [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
+- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
+- [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
+- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
+- [some nyu courses](https://guides.nyu.edu/r)
+- [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+- [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
+- [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
+- [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
+- [Thee Undergraduare Guide to R](https://2dc76119-a-62cb3a1a-s-sites.googlegroups.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf?attachauth=ANoY7cprKuOTqDa7cWdwB-afAYvksPkZ6i8Y3ZxSgLhOTwMjbNsd8qDAJdxyrGHgBUtplleycdqaxdXVhMDqDcME8BMRPo7V18T1UwRrnxn_NPDWX931OE3x77puUHbDxtRirvRg1T3WENZ1H-N2PlYJIUrfR5qlLBG9BAIi2ZRJJnMgTwav_uCpDgxhjwCgJFOHIwY_5Im9FYhpqQ5NvEEjInA90bIUapE6WCw_k3xmLmu18bC-o8Yq6hDNUeO3aTSiOJuYFYBY&attredirects=1)
+- [Analysis of Categorical Data with R](http://www.chrisbilder.com/stat875/chapter.html
+- [Learn R](https://learnxinyminutes.com/docs/r/)
+- [Data wrangling, exploration, and analysis with R](https://stat545.com)
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+- [R Bootcamp](https://github.com/rstudio-education/bootcamper)
+- [R Codebook](http://www.cookbook-r.com)
+- [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
+- [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+- [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
+## Data Visualization Books
 ## Bookdown/R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
@@ -202,7 +200,7 @@
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 - [R Exercises](https://www.r-exercises.com)
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - You can download course material by going to the course and then click on the small folder. Some good stuff there.
-## Statistics Websites
+## Statistics Books Without R
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
@@ -212,16 +210,9 @@
 - [JB statistics](https://www.jbstatistics.com)
 - [statquest](https://statquest.org/video-index/)
 - [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)
-## Statistics-Youtube
-[Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
-## Tidyverse
-[dplyr Tutorial](https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
-## Dissertation Websites
-- [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
-- [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
-- [One year to dissertate](https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/)
-## R Packages I Like
-[PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
+- [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
+
+
 
 ## List of R Functions
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
@@ -260,3 +251,7 @@
 - [Data carpentry courses](https://datacarpentry.org/lessons/#social-science-curriculum)
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
 - [Introduction to open data science] (http://ohi-science.org/data-science-training/)
+## Dissertation Websites
+- [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
+- [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
+- [One year to dissertate](https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/)
