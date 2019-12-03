@@ -23,6 +23,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [Advanced R](https://adv-r.hadley.nz)
 - [R studio Learning](https://resources.rstudio.com)
 - [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 - [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
@@ -46,8 +47,13 @@
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 - [R Codebook](http://www.cookbook-r.com)
+- [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
 
 ## R Books With Stats
+- [Class all about GLM](https://osf.io/q6wnd/)
+- [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
+- [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
+- [R Models](https://m-clark.github.io/R-models/)
 - [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/)
 - [Regression Diagnostics](https://socialsciences.mcmaster.ca/jfox/Books/RegressionDiagnostics/index.html)
 - [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html)
@@ -92,9 +98,11 @@
 - [STA130 Course Content](https://ntaback.github.io/UofT_STA130/course_content.html)
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
 - [Getting Started in R](https://rcatlord.github.io/GSinR/)
+- [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
 ## R Search Tools
 
 ## Bookdown/R Markdown
+- [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 - [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
@@ -107,6 +115,7 @@
 - [Markdown tutorial](https://github.com/rstudio-education/communicate-rmd-workshop)
 - [R Markdown video](https://www.youtube.com/watch?v=CHBOVuo6RCo&feature=youtu.be)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+- [Intro to R Markdown](https://m-clark.github.io/Introduction-to-Rmarkdown/)
 ## List of R Resources
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
@@ -156,3 +165,10 @@
 - [How to use stargazer](https://dss.princeton.edu/training/NiceOutputR.pdf)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
 - [Data science Trello](https://trello.com/b/rbpEfMld/data-science)
+- [Rtips](https://twitter.com/rlangtip)
+- [BBC Visual and Data Journalism cookbook for R graphics] (https://bbc.github.io/rcookbook/)
+- [RWeekly](https://rweekly.org)
+- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
+- [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
+- [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
+- [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
