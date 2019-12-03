@@ -26,7 +26,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R Books With Stats
-
+- [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. 
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
@@ -219,11 +219,9 @@
 - [Package to Teach you R](https://swirlstats.com/)
 - [Regression Modeling Strategies] (http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
 - [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
-- [Videos on Data Analysis with R](http://jeromyanglim.blogspot.com/2010/05/videos-on-data-analysis-with-r.html)
-- [List of Resources](https://noeliagorod.com/2019/04/24/r-resources-free-courses-books-tutorials-cheat-sheets/)
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
-- [R Exercises](https://www.r-exercises.com)
-- [University of Cincinnati R programming guide](http://uc-r.github.io) - You can download course material by going to the course and then click on the small folder. Some good stuff there.
+
+
 ## Statistics Books Without R
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
