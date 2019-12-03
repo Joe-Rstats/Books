@@ -36,7 +36,9 @@
 - [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
 - [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
+- [some nyu courses](https://guides.nyu.edu/r)
 - [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
+- [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
 - [RStudio Primers](https://rstudio.cloud/learn/primers)
 - [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
 - [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
