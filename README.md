@@ -15,9 +15,9 @@
     - [Coding Books](#Coding-books)   
       - [R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
-  - [List of R Functions](#List-of-R-Functions)
-    - [Statistical Functions](#Statistical-Functions)
-    - [R Functions](#R-Functions)
+  - [List of R code](#List-of-R-code)
+    - [Statistical Code](#Statistical-code)
+    - [R Code](#R-code)
 - [Staistics Without R](#statistics-without-r)
 
 - [Research Design](#Research-design)
@@ -216,9 +216,9 @@
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 
-### List of R Functions
-#### Statistical Functions
-#### R Functions
+### List of R Code
+#### Statistical Code
+#### R Code
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
 - [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
