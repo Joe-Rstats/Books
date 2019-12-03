@@ -23,6 +23,8 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [R studio Learning](https://resources.rstudio.com)
+- [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 - [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 - [Introduction to Data Science](https://beanumber.github.io/sds192/index.html)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
@@ -46,6 +48,9 @@
 - [R Codebook](http://www.cookbook-r.com)
 
 ## R Books With Stats
+- [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/)
+- [Regression Diagnostics](https://socialsciences.mcmaster.ca/jfox/Books/RegressionDiagnostics/index.html)
+- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html)
 - [R course with data teaching](https://biol607.github.io/schedule.html)
 -[AN R COMPANION FOR THE HANDBOOK OF BIOLOGICAL STATISTICS](http://rcompanion.org/documents/RCompanionBioStatistics.pdf) - Whoa, a lot here
 - [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
@@ -86,9 +91,11 @@
 - [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
 - [STA130 Course Content](https://ntaback.github.io/UofT_STA130/course_content.html)
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
+- [Getting Started in R](https://rcatlord.github.io/GSinR/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
+- [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Has some useful R markdown tips](https://cran.r-project.org/web/views/ReproducibleResearch.html)
 - [Manuscripts in Rmarkdown](https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html)- 
 - [Youtube Video about R markdown](https://www.youtube.com/watch?v=Nj9J5iCSMB0)
@@ -99,6 +106,7 @@
 - [Slides](https://geocompr.github.io/user_19/presentation/#12)
 - [Markdown tutorial](https://github.com/rstudio-education/communicate-rmd-workshop)
 - [R Markdown video](https://www.youtube.com/watch?v=CHBOVuo6RCo&feature=youtu.be)
+- [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 ## List of R Resources
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
@@ -128,6 +136,8 @@
 [PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
 
 ## List of R Functions
+- [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
+- [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
 - [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
 - [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
 - [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
