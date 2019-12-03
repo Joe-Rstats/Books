@@ -54,6 +54,8 @@
 - [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
 
 ## R Books With Stats
+- [Some Great R code and tutorial](https://bitbucket.org/gonzoum/r-workshop/src/master/)
+- [Great R notes](http://www-personal.umich.edu/~gonzo/coursenotes/)
 - [Advanced quant and quals methods](https://tvpollet.github.io/PY0794/#course-manual)
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1)
 - [R Bootcamp](http://seankross.com/rbootcamp/)
@@ -123,12 +125,14 @@
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
 - [Good youtube R Class](https://www.youtube.com/channel/UCstAS6IpgYgZ9Cvcag_YlCQ/featured)
 - [Intro to data analysis](https://github.com/UCIDataScienceInitiative/IDA-with-R)
+- [R and Statistics](http://www.dartistics.com/index.html)
 - [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
 - [STA130 Course Content](https://ntaback.github.io/UofT_STA130/course_content.html)
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
 - [Getting Started in R](https://rcatlord.github.io/GSinR/)
 - [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
+- [Some good codd here](https://designingexperiments.com)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -216,3 +220,5 @@
 - [Ton of good resources](https://psu-psychology.github.io/Psych-Grad-Resources/index.html)
 - [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
+ -[R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
+ - [Learn R resources](https://docs.google.com/spreadsheets/d/1XkvsNUG1Yrn66gPiAg7uu-0ew1swyMFmVKHDyu7_9nY/edit#gid=0)
