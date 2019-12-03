@@ -247,10 +247,6 @@
 - [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 
 
-
-
-
-
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
 
