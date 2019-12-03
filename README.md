@@ -23,6 +23,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
 - [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
 - [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
