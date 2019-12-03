@@ -24,7 +24,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
-- [University of Cincinnati R programming guide](http://uc-r.github.io) - :heavy_check_mark: Click on top left to see all Info.
+- [University of Cincinnati R programming guide](http://uc-r.github.io) - :top: Click on top left to see all Info.
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
