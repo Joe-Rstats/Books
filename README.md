@@ -9,8 +9,9 @@
 
 ## Contents
 
-- [R Language Books] (#R-Language-Books)
+- [R Language Books](#R-Language-Books)
 - [R Books with Stats](#R-Books-With-Stats)
+  - [Regression](#regression)
 - [R Search Tools](#R-Search-Tools)
 - [List of R Resources](#List-of-R-Resources)
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
@@ -57,6 +58,7 @@
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/
 ## R Books With Stats
+### Regression
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
