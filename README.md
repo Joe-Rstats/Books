@@ -82,7 +82,9 @@
 - [R Markdown Basics](https://stats.idre.ucla.edu/r/seminars/r-markdown-basics/)
 - [Slides](https://geocompr.github.io/user_19/presentation/#12)
 - [Markdown tutorial](https://github.com/rstudio-education/communicate-rmd-workshop)
+- [R Markdown video](https://www.youtube.com/watch?v=CHBOVuo6RCo&feature=youtu.be)
 ## List of R Resources
+- [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
 - [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
 - [List of R blogs](https://www.r-bloggers.com/)
