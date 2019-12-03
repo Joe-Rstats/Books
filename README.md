@@ -180,6 +180,8 @@
 ### Books
 - [Github for the R user](https://happygitwithr.com)
 ### Online Resources
+- [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
+- [Package to Teach you R](https://swirlstats.com/)
 - [Rtips](https://twitter.com/rlangtip)
 - [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
 - [RWeekly](https://rweekly.org)
@@ -211,13 +213,8 @@
 - [R markdwon for scientists](https://rmd4sci.njtierney.com)
 - [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 ## List of R Resources
-- [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
+
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
-- [Huge List of R Resources](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books) 
-- [List of R blogs](https://www.r-bloggers.com/)
-- [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
-- [Package to Teach you R](https://swirlstats.com/)
-- [Regression Modeling Strategies] (http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 
