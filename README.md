@@ -15,9 +15,11 @@
 - [R Programming Books](#R-programming-Books)
 - [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
+
 - [List of R Resources](#List-of-R-Resources)
 - [Staistics Books Without R](#statistics-books-without-r)
 - [List of R Functions](#List-of-R-Functions)
+- [Research Design](#Research-design)
 - [Miscellaneous](#miscellaneous)
 - [Dissertation Websites](#Dissertation-Websites)
 
@@ -251,10 +253,10 @@
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
 - [Ton of good resources](https://psu-psychology.github.io/Psych-Grad-Resources/index.html)
 - [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
+
+
+## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
-
-
-
 
 ## Dissertation Websites
 - [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
