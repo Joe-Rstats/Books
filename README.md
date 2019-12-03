@@ -98,6 +98,7 @@
 - [Math Prefresher for poli sci studnets](https://iqss.github.io/prefresher/)
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
 - [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+- [some useful R tutorials here](http://www.econ.uiuc.edu/~econ508/e-ta.html)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
 - [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
 - [Linear Regression with R](https://dss.princeton.edu/training/Regression101R.pdf)
