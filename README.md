@@ -11,6 +11,7 @@
 - [R Books with Stats](#R-Books-With-Stats)
   - [Probability and Statistics](#probability-and-statistics)
   - [Regression](#regression)
+  - [Other](#other)
 - [R Programming Books](#R-programming-Books)
 - [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
@@ -21,8 +22,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R Books With Stats
-### Probability and Statistics
-### Regression
+
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
@@ -132,7 +132,13 @@
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Some good codd here](https://designingexperiments.com)
 
+### Probability and Statistics
+### Regression
+- [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
+### Other
+- [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
 ## R Programming Books
+- [Introduction to open data science](http://ohi-science.org/data-science-training/)
  -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
  -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [Advanced R](https://adv-r.hadley.nz)
@@ -167,6 +173,7 @@
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 ## Data Visualization Books
+ -[R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
 ## Bookdown/R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
@@ -245,12 +252,10 @@
 - [Ton of good resources](https://psu-psychology.github.io/Psych-Grad-Resources/index.html)
 - [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
- -[R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
- - [Learn R resources](https://docs.google.com/spreadsheets/d/1XkvsNUG1Yrn66gPiAg7uu-0ew1swyMFmVKHDyu7_9nY/edit#gid=0)
-- [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
-- [Data carpentry courses](https://datacarpentry.org/lessons/#social-science-curriculum)
-- [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
-- [Introduction to open data science] (http://ohi-science.org/data-science-training/)
+
+
+
+
 ## Dissertation Websites
 - [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
 - [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
