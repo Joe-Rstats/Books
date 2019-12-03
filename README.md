@@ -26,6 +26,7 @@
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
+- [Basics of correlation and regression in R](https://psu-psychology.github.io/r-bootcamp-2018/talks/correlation_regression.html)
 -[Chrisbilder courses](http://www.chrisbilder.com) - ton of courses under teaching
 -[ learn r for psychologist](https://github.com/nmmichalak/novum_R_ganum/blob/master/learn_r_for_psychology_research_a_crash_course/learn_r_for_psychology_research_a_crash_course.md)
 - [R for academics](https://bookdown.org/marius_mather/Rad/)
