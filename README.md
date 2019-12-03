@@ -25,9 +25,9 @@
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
 - [Basics of correlation and regression in R](https://psu-psychology.github.io/r-bootcamp-2018/talks/correlation_regression.html)
-- [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/)
-- [Data anlysis for psychology in R](https://bookdown.org/animestina/dapr1_labs/)
+- [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/) - Most advanced it gets is OLS.
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
+- [Good Econometric Course](https://github.com/edrubin/EC525S19)
 - [logistic regression walktrhgouh](https://github.com/jgscott/learnR/blob/master/bballbets/bballbets.md)
 - [ R course](https://pagepiccinini.com/r-course/)
 - [PhD Training Workshop: Statistics in R](https://bookdown.org/animestina/R_Manchester/)
