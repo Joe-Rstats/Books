@@ -1,11 +1,5 @@
 # R & Stats Books and Websites that I think are good.
 
-## Star System
-### No star --> Good
-### One Star :star: --> Great
-### Two stars :star: :star: --> Among the Best
-### Three Stars :star: :star: :star: --> Top Resource in that section
-
 
 ## Contents
 - [R with Stats](#R-With-Stats)
@@ -20,14 +14,8 @@
       - [Coding Books](#Coding-books)   
           - [R Markdown](#R-Markdown)
   - [Online Resources](#Online-Resources)
-   
-
-
-
 - [Staistics Books Without R](#statistics-books-without-r)
 - [List of R Functions](#List-of-R-Functions)
-
-
 - [List of R Resources](#List-of-R-Resources)
 - [Research Design](#Research-design)
 - [Dissertation Websites](#Dissertation-Websites)
