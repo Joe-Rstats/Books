@@ -16,8 +16,9 @@
   - [Online Resources](#online-resources)
 - [R Without Stats](#R-Without-Stats)
   - [Books](#books)
+      - [Data Visualization Books](#data-visualization-books) 
   - [Online Resources](#Online-Resources)
-- [Data Visualization Books](#data-visualization-books)    
+   
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 
 
@@ -183,7 +184,11 @@
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 ### Books
+#### Programming Books
 - [Github for the R user](https://happygitwithr.com)
+#### Data Visualization Books
+ - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
+ - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 ### Online Resources
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Package to Teach you R](https://swirlstats.com/)
@@ -195,9 +200,7 @@
 - [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
 -
-## Data Visualization Books
- - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
- - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+
 ## Bookdown/R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
