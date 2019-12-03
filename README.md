@@ -22,19 +22,8 @@
 
 ## R With Stats
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info.
-- [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
-- [Linear Models](https://bookdown.org/domijank/ST463/)
-- [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
-- [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
- -[R training] (https://bookdown.org/animestina/phd_july_19/)
- -[ Foundations of statistics with r](https://bookdown.org/speegled/foundations-of-statistics/)
- -[An Introduction to R, LaTeX, and Statistical Inference](https://bookdown.org/Yuleng/polimethod/)
-- [Some Great R code and tutorial](https://bitbucket.org/gonzoum/r-workshop/src/master/)
-- [Great R notes](http://www-personal.umich.edu/~gonzo/coursenotes/)
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf)
- -[R companion to real econometrics](https://bookdown.org/carillitony/bailey/)
-  -[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
-- [Advanced quant and quals methods](https://tvpollet.github.io/PY0794/#course-manual)
+- [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1)
 - [R Bootcamp](http://seankross.com/rbootcamp/)
 - [R statistics](http://r-statistics.co)
