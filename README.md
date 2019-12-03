@@ -17,6 +17,7 @@
 - [R Without Stats](#R-Without-Stats)
   - [Books](#books)
       - [Data Visualization Books](#data-visualization-books) 
+      - [Coding Books](#Coding-books) 
   - [Online Resources](#Online-Resources)
    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
@@ -184,7 +185,7 @@
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 ### Books
-#### Programming Books
+#### Coding Books
 - [Github for the R user](https://happygitwithr.com)
 #### Data Visualization Books
  - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
