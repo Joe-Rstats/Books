@@ -51,6 +51,7 @@
 - [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
 
 ## R Books With Stats
+- [ R course](https://pagepiccinini.com/r-course/)
 - [Advanced statistics class](https://osf.io/q6wnd/)
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
@@ -75,11 +76,14 @@
 - [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
+- [ton of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
+- [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg)
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 - [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
 - [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
+- [Advanced statistics course](http://statstools.com/learn/advanced-statistics/)
 - [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/heteroskedasticity.html)
 - [Intro to Econometrics with R](https://www.econometrics-with-r.org/)
@@ -136,6 +140,7 @@
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
 - [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
+- [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
