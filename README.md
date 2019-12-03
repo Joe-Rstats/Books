@@ -51,6 +51,9 @@
 - [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
 
 ## R Books With Stats
+-[Chrisbilder courses](http://www.chrisbilder.com) - ton of courses under teaching
+- [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
+- [logistic regression walktrhgouh](https://github.com/jgscott/learnR/blob/master/bballbets/bballbets.md)
 - [ R course](https://pagepiccinini.com/r-course/)
 - [Advanced statistics class](https://osf.io/q6wnd/)
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
@@ -70,9 +73,11 @@
 - [Ton of slides](https://github.com/rstudio-education/datascience-box) - Need to be run in R
 - [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
 - [Ton of good stuff here](https://data.princeton.edu)
+- [R book](https://psyteachr.github.io/msc-conv-f2f/)
 - [R Cookbook](http://rpubs.com/collnell/Rcookbook)
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
+- [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)
 - [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
@@ -90,6 +95,7 @@
 - [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Learning Statistics With R](https://learningstatisticswithr.com/book/)
+- [Math Prefresher for poli sci studnets](https://iqss.github.io/prefresher/)
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
 - [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
@@ -104,6 +110,7 @@
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
 - [Getting Started in R](https://rcatlord.github.io/GSinR/)
 - [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
+- [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
 ## R Search Tools
 
 ## Bookdown/R Markdown
@@ -139,8 +146,11 @@
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
+- [Introduction to mathematics for political scientists](http://brendancooley.com/imps2019/)
 - [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
 - [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
+- [JB statistics](https://www.jbstatistics.com)
+- [statquest](https://statquest.org/video-index/)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
