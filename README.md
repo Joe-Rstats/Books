@@ -51,12 +51,20 @@
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 - [R Codebook](http://www.cookbook-r.com)
 - [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
+- [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
 
 ## R Books With Stats
+- [Advanced quant and quals methods](https://tvpollet.github.io/PY0794/#course-manual)
+- [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1)
+- [R Bootcamp](http://seankross.com/rbootcamp/)
+- [Basic analyses in R](https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses.html) & (https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses_supp.html)
+- [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2019/modules.html)
 -[Chrisbilder courses](http://www.chrisbilder.com) - ton of courses under teaching
+-[ learn r for psychologist](https://github.com/nmmichalak/novum_R_ganum/blob/master/learn_r_for_psychology_research_a_crash_course/learn_r_for_psychology_research_a_crash_course.md)
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [logistic regression walktrhgouh](https://github.com/jgscott/learnR/blob/master/bballbets/bballbets.md)
 - [ R course](https://pagepiccinini.com/r-course/)
+- [Good R learning](https://datasciencelabs.github.io/pages/lectures.html)
 - [Advanced statistics class](https://osf.io/q6wnd/)
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
@@ -66,13 +74,18 @@
 - [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html)
 - [R course with data teaching](https://biol607.github.io/schedule.html)
 -[AN R COMPANION FOR THE HANDBOOK OF BIOLOGICAL STATISTICS](http://rcompanion.org/documents/RCompanionBioStatistics.pdf) - Whoa, a lot here
+- [Statistics in r](https://crumplab.github.io/psyc7709/Presentations/Statistics.html)
+- [programming for psychologists](https://crumplab.github.io/programmingforpsych/simulating-and-analyzing-data-in-r.html#running-a-between-subjects-anova-for-a-2x2-factorial-design)
+- [more nyu r learning](https://nyu-cdsc.github.io/learningr/)
 - [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
+- [Answering questions with Data](https://crumplab.github.io/statistics/)
 - [Linear models and linear mixed effects models in R: Tutorial 2] (http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial2.pdf)
 - [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression)
 - [Data Science Specialization](https://datasciencespecialization.github.io)
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read)
 - [Wrangling categorical data in R](https://peerj.com/preprints/3163/)
-- [Ton of slides](https://github.com/rstudio-education/datascience-box) - Need to be run in R
+- [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
+- [Ton of slides](https://github.com/rstudio-education/-box) - Need to be run in R
 - [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
 - [Ton of good stuff here](https://data.princeton.edu)
 - [R book](https://psyteachr.github.io/msc-conv-f2f/)
@@ -83,6 +96,7 @@
 - [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
+- [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2018/modules.html)
 - [ton of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 - [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg)
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
@@ -100,6 +114,7 @@
 - [Math Prefresher for poli sci studnets](https://iqss.github.io/prefresher/)
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
 - [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
+- [Ton of R courses](https://robchavez.github.io/datascience_gallery/)
 - [some useful R tutorials here](http://www.econ.uiuc.edu/~econ508/e-ta.html)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
 - [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
@@ -131,6 +146,10 @@
 - [R Markdown video](https://www.youtube.com/watch?v=CHBOVuo6RCo&feature=youtu.be)
 - [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 - [Intro to R Markdown](https://m-clark.github.io/Introduction-to-Rmarkdown/)
+- [Pimp my Rmarkdown](https://holtzy.github.io/Pimp-my-rmd/#text_formating)
+- [R Markdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/)
+- [R markdwon for scientists](https://rmd4sci.njtierney.com)
+- [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 ## List of R Resources
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Useful slack group for questions](https://www.rfordatasci.com/about/)
@@ -154,12 +173,15 @@
 - [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
 - [JB statistics](https://www.jbstatistics.com)
 - [statquest](https://statquest.org/video-index/)
+- [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)
 ## Statistics-Youtube
 [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
 ## Tidyverse
 [dplyr Tutorial](https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
 ## Dissertation Websites
+- [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
 - [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
+- [One year to dissertate](https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/)
 ## R Packages I Like
 [PapeR](https://cran.r-project.org/web/packages/papeR/index.html) - Makes papers look nice. Some Good markdown features.
 
@@ -191,3 +213,6 @@
 - [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
 - [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
+- [Ton of good resources](https://psu-psychology.github.io/Psych-Grad-Resources/index.html)
+- [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
+- [Research design course from LSE](https://thomasleeper.com/designcourse/)
