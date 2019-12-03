@@ -23,6 +23,9 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [Efficient R programming](https://csgillespie.github.io/efficientR/)
+- [Statistical inference via data science](https://moderndive.com) - moderndive 
+- [R for data science](https://r4ds.had.co.nz)
 - [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
 - [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
 - [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
@@ -37,8 +40,12 @@
 - [Data wrangling, exploration, and analysis with R](https://stat545.com)
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
+- [R Codebook](http://www.cookbook-r.com)
 
 ## R Books With Stats
+-[AN R COMPANION FOR THE HANDBOOK OF BIOLOGICAL STATISTICS](http://rcompanion.org/documents/RCompanionBioStatistics.pdf) - Whoa, a lot here
+- [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
+- [Linear models and linear mixed effects models in R: Tutorial 2] (http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial2.pdf)
 - [Data Science Specialization](https://datasciencespecialization.github.io)
 - [Wrangling categorical data in R](https://peerj.com/preprints/3163/)
 - [Ton of slides](https://github.com/rstudio-education/datascience-box) - Need to be run in R
