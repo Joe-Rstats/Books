@@ -6,7 +6,6 @@
   - [Books](#Books)
   - [Online Resources](#online-resources)
 - [R Without Stats](#R-Without-Stats)
-
   - [Books](#books)
     - [Data Visualization Books](#data-visualization-books) 
     - [Coding Books](#Coding-books)   
@@ -16,7 +15,6 @@
     - [Statistical Code](#Statistical-code)
     - [R Code](#R-code)
 - [Staistics Without R](#statistics-without-r)
-
 - [Research Design](#Research-design)
 - [Dissertation Websites](#Dissertation-Websites)
 
@@ -27,8 +25,6 @@
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
 - [Basics of correlation and regression in R](https://psu-psychology.github.io/r-bootcamp-2018/talks/correlation_regression.html)
-- [Lab Guide to Quantitative Research Methods in Political Science, Public Policy & Public Administration](https://bookdown.org/ripberjt/labbook/) & (https://bookdown.org/josiesmith/labbook/)
-- [Data science for psychologists](https://bookdown.org/hneth/ds4psy/)
 - [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/)
 - [Data anlysis for psychology in R](https://bookdown.org/animestina/dapr1_labs/)
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
@@ -158,6 +154,7 @@
 - [Github for the R user](https://happygitwithr.com)
 - [Slow Intro to R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
 - [R for academics](https://bookdown.org/marius_mather/Rad/)
+- [Data science for psychologists](https://bookdown.org/hneth/ds4psy/)
 ##### R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
