@@ -29,7 +29,6 @@
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
     - Notes (http://edrub.in/ARE212/index.html)
-- [ R course](https://pagepiccinini.com/r-course/)
 - [PhD Training Workshop: Statistics in R](https://bookdown.org/animestina/R_Manchester/)
 - [Good R learning](https://datasciencelabs.github.io/pages/lectures.html)
 - [Advanced statistics class](https://osf.io/q6wnd/)
