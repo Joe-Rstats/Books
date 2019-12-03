@@ -14,7 +14,7 @@
   - [Other](#other)
 - [R Books Without Stats](#R-Books-Without-Stats)
   - [Books](#books)
-  - [Online Resources](#online Resources)
+  - [Online Resources](#Online Resources)
 - [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 
