@@ -8,11 +8,12 @@
 
 
 ## Contents
-- [R Books with Stats](#R-Books-With-Stats)
-  - [Probability and Statistics](#probability-and-statistics)
-  - [Regression](#regression)
-  - [Other](#other)
-- [R Books Without Stats](#R-Books-Without-Stats)
+- [R with Stats](#R-With-Stats)
+  - [Books] (#Books)
+    - [Probability and Statistics](#probability-and-statistics)
+    - [Regression](#regression)
+    - [Other](#other)
+- [R Without Stats](#R-Without-Stats)
   - [Books](#books)
   - [Online Resources](#Online-Resources)
 - [Data Visualization Books](#data-visualization-books)    
@@ -27,7 +28,7 @@
 - [Research Design](#Research-design)
 - [Dissertation Websites](#Dissertation-Websites)
 
-## R Books With Stats
+## R With Stats
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. 
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
 - [Linear Models](https://bookdown.org/domijank/ST463/)
@@ -137,14 +138,14 @@
 - [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
 - [Some good codd here](https://designingexperiments.com)
-
-### Probability and Statistics
-### Regression
+### Books
+#### Probability and Statistics
+#### Regression
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
-### Other
+#### Other
 - [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
-## R Books Without Stats
+## R Without Stats
  [Introduction to open data science](http://ohi-science.org/data-science-training/)
  -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
  -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
