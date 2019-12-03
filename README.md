@@ -16,7 +16,6 @@
   - [Online Resources](#Online-Resources)
 - [Staistics Books Without R](#statistics-books-without-r)
 - [List of R Functions](#List-of-R-Functions)
-- [List of R Resources](#List-of-R-Resources)
 - [Research Design](#Research-design)
 - [Dissertation Websites](#Dissertation-Websites)
 
@@ -209,7 +208,9 @@
 - [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
 - [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
--
+- [Useful slack group for questions](https://www.rfordatasci.com/about/)
+- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
+
 
 
 
@@ -242,10 +243,6 @@
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-## List of R Resources
-
-- [Useful slack group for questions](https://www.rfordatasci.com/about/)
-- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 
 ## Research Design
