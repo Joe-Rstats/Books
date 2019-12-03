@@ -25,12 +25,8 @@
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
-- [R Bootcamp](http://seankross.com/rbootcamp/)
-- [R statistics](http://r-statistics.co)
-- [R book](https://bookdown.org/ripberjt/qrmbook/)
-- [simpleR – Using R for Introductory Statistics](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
-- [introductory R for criminologists](https://maczokni.github.io/R-for-Criminologists/)
-- [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
+- [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
+
 - [Basic analyses in R](https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses.html) & (https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses_supp.html)
 - [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2019/modules.html)
 -[Chrisbilder courses](http://www.chrisbilder.com) - ton of courses under teaching
@@ -163,6 +159,7 @@
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 ### Books
 #### Coding Books
+- [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
 - [Github for the R user](https://happygitwithr.com)
 ##### R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
