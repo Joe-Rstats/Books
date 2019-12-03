@@ -218,7 +218,6 @@
 - [How to Teach Statistics](https://cran.r-project.org/web/views/TeachingStatistics.html)
 - [Package to Teach you R](https://swirlstats.com/)
 - [Regression Modeling Strategies] (http://biostat.mc.vanderbilt.edu/wiki/Main/RmS) - Ton of info and links on regression and stats in R
-- [R Resource](https://docs.google.com/document/d/1qtdiLbU32F_AVNRlF7d23wvPSgTCYqr5TFeBwbncPcw/edit)
 - [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 
