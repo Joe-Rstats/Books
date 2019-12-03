@@ -23,6 +23,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+- [Introduction to Data Science](https://beanumber.github.io/sds192/index.html)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)
 - [Statistical inference via data science](https://moderndive.com) - moderndive 
 - [R for data science](https://r4ds.had.co.nz)
@@ -43,6 +44,7 @@
 - [R Codebook](http://www.cookbook-r.com)
 
 ## R Books With Stats
+- [R course with data teaching](https://biol607.github.io/schedule.html)
 -[AN R COMPANION FOR THE HANDBOOK OF BIOLOGICAL STATISTICS](http://rcompanion.org/documents/RCompanionBioStatistics.pdf) - Whoa, a lot here
 - [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
 - [Linear models and linear mixed effects models in R: Tutorial 2] (http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial2.pdf)
@@ -77,6 +79,7 @@
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
 - [Good youtube R Class](https://www.youtube.com/channel/UCstAS6IpgYgZ9Cvcag_YlCQ/featured)
 - [Intro to data analysis](https://github.com/UCIDataScienceInitiative/IDA-with-R)
+- [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
 ## R Search Tools
 
 ## Bookdown/R Markdown
