@@ -38,6 +38,9 @@
 - [R Bootcamp](https://github.com/rstudio-education/bootcamper)
 
 ## R Books With Stats
+- [Data Science Specialization](https://datasciencespecialization.github.io)
+- [Wrangling categorical data in R](https://peerj.com/preprints/3163/)
+- [Ton of slides](https://github.com/rstudio-education/datascience-box) - Need to be run in R
 - [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
 - [Ton of good stuff here](https://data.princeton.edu)
 - [R Cookbook](http://rpubs.com/collnell/Rcookbook)
