@@ -50,7 +50,7 @@
 - [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
 
 ## R Books With Stats
-- [Class all about GLM](https://osf.io/q6wnd/)
+- [Advanced statistics class](https://osf.io/q6wnd/)
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
 - [R Models](https://m-clark.github.io/R-models/)
