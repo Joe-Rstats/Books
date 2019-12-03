@@ -58,6 +58,7 @@
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/
 ## R Books With Stats
 - [R tutorials](http://eclr.humanities.manchester.ac.uk/index.php/R)
+- [Linear Models](https://bookdown.org/domijank/ST463/)
 - [Principles of Econometrics with  R] (https://bookdown.org/ccolonescu/RPoE4/)
 - [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
  -[R training] (https://bookdown.org/animestina/phd_july_19/)
