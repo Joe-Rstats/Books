@@ -18,11 +18,13 @@
 - [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 
-- [List of R Resources](#List-of-R-Resources)
+
 - [Staistics Books Without R](#statistics-books-without-r)
 - [List of R Functions](#List-of-R-Functions)
+
+
+- [List of R Resources](#List-of-R-Resources)
 - [Research Design](#Research-design)
-- [Miscellaneous](#miscellaneous)
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R Books With Stats
@@ -212,10 +214,6 @@
 - [R Markdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/)
 - [R markdwon for scientists](https://rmd4sci.njtierney.com)
 - [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
-## List of R Resources
-
-- [Useful slack group for questions](https://www.rfordatasci.com/about/)
-- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
 
 
 ## Statistics Books Without R
@@ -246,6 +244,11 @@
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+## List of R Resources
+
+- [Useful slack group for questions](https://www.rfordatasci.com/about/)
+- [Stack-Overflow R Resourcees](https://stackoverflow.com/tags/r/info)
+
 
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
