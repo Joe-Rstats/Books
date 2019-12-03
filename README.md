@@ -253,15 +253,6 @@
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 
-## miscellaneous
-
-
-
-
-
-
-
-
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
 
