@@ -13,6 +13,8 @@
   - [Regression](#regression)
   - [Other](#other)
 - [R Books Without Stats](#R-Books-Without-Stats)
+  - [Books](#books)
+  - [Online Resources](#online Resources)
 - [Data Visualization Books](#data-visualization-books)    
 - [Bookdown/R Markdown](#Bookdown/R-Markdown)
 
@@ -139,13 +141,9 @@
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
 ### Other
 - [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
+- [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
 ## R Books Without Stats
-- [RWeekly](https://rweekly.org)
-- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
-- [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
-- [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
-- [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
-- [Introduction to open data science](http://ohi-science.org/data-science-training/)
+ [Introduction to open data science](http://ohi-science.org/data-science-training/)
  -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
  -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [Advanced R](https://adv-r.hadley.nz)
@@ -179,8 +177,20 @@
 - [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
+### Books
+- [Github for the R user](https://happygitwithr.com)
+### Online Resources
+- [Rtips](https://twitter.com/rlangtip)
+- [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
+- [RWeekly](https://rweekly.org)
+- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
+- [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
+- [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
+- [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
+-
 ## Data Visualization Books
- -[R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
+ - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
+ - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 ## Bookdown/R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
@@ -244,15 +254,12 @@
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 
 ## miscellaneous
-- [Github for the R user](https://happygitwithr.com)
-- [R and Stata code side by side](https://dss.princeton.edu/training/RStata.pdf#page=15)
-- [How to use stargazer](https://dss.princeton.edu/training/NiceOutputR.pdf)
-- [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
-- [Data science Trello](https://trello.com/b/rbpEfMld/data-science)
-- [Rtips](https://twitter.com/rlangtip)
-- [BBC Visual and Data Journalism cookbook for R graphics] (https://bbc.github.io/rcookbook/)
 
-- [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
+
+
+
+
+
 
 
 ## Research Design
