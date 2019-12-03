@@ -232,6 +232,7 @@
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
 
 ## Dissertation Websites
+- [Advice](https://github.com/edrubin/Advice)
 - [Writing your thesis with r markdown](https://paulvanderlaken.com/2017/09/01/writing-your-thesis-with-r-markdown-1-getting-started/)
 - [Dissertating with Bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/nitty-gritty-stuff.html#predefined-functions)
 - [One year to dissertate](https://livefreeordichotomize.com/2018/09/14/one-year-to-dissertate/)
