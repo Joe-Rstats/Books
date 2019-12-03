@@ -23,6 +23,7 @@
 - [Miscellaneous](#miscellaneous)
 
 ## R Language Books
+ -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 - [Advanced R](https://adv-r.hadley.nz)
 - [R studio Learning](https://resources.rstudio.com)
 - [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
@@ -54,18 +55,28 @@
 - [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
 
 ## R Books With Stats
+ -[R training] (https://bookdown.org/animestina/phd_july_19/)
+ -[An Introduction to R, LaTeX, and Statistical Inference](https://bookdown.org/Yuleng/polimethod/)
 - [Some Great R code and tutorial](https://bitbucket.org/gonzoum/r-workshop/src/master/)
 - [Great R notes](http://www-personal.umich.edu/~gonzo/coursenotes/)
+ -[R companion to real econometrics](https://bookdown.org/carillitony/bailey/)
 - [Advanced quant and quals methods](https://tvpollet.github.io/PY0794/#course-manual)
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1)
 - [R Bootcamp](http://seankross.com/rbootcamp/)
+- [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
 - [Basic analyses in R](https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses.html) & (https://psu-psychology.github.io/r-bootcamp-2019/talks/data_analyses_supp.html)
 - [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2019/modules.html)
 -[Chrisbilder courses](http://www.chrisbilder.com) - ton of courses under teaching
 -[ learn r for psychologist](https://github.com/nmmichalak/novum_R_ganum/blob/master/learn_r_for_psychology_research_a_crash_course/learn_r_for_psychology_research_a_crash_course.md)
+- [R for academics](https://bookdown.org/marius_mather/Rad/)
+- [Lab Guide to Quantitative Research Methods in Political Science, Public Policy & Public Administration](https://bookdown.org/ripberjt/labbook/) & (https://bookdown.org/josiesmith/labbook/)
+- [Data science for psychologists](https://bookdown.org/hneth/ds4psy/)
+- [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/)
+- [Data anlysis for psychology in R](https://bookdown.org/animestina/dapr1_labs/)
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [logistic regression walktrhgouh](https://github.com/jgscott/learnR/blob/master/bballbets/bballbets.md)
 - [ R course](https://pagepiccinini.com/r-course/)
+- [PhD Training Workshop: Statistics in R](https://bookdown.org/animestina/R_Manchester/)
 - [Good R learning](https://datasciencelabs.github.io/pages/lectures.html)
 - [Advanced statistics class](https://osf.io/q6wnd/)
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1)
