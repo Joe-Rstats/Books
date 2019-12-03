@@ -28,6 +28,7 @@
 - [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/) - Most advanced it gets is OLS.
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
+    - Notes (http://edrub.in/ARE212/index.html)
 - [logistic regression walktrhgouh](https://github.com/jgscott/learnR/blob/master/bballbets/bballbets.md)
 - [ R course](https://pagepiccinini.com/r-course/)
 - [PhD Training Workshop: Statistics in R](https://bookdown.org/animestina/R_Manchester/)
