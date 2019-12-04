@@ -21,6 +21,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
+- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop) - :star: good stats stuff here too
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/) - also some good stats tutorials here :star:
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/) :star: :star: :star:
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. :star:
@@ -79,32 +80,17 @@
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
 
 ## R Without Stats
- [Introduction to open data science](http://ohi-science.org/data-science-training/)
- -[ Handling Strings with R](https://www.gastonsanchez.com/r4strings/chars.html)
- -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [Advanced R](https://adv-r.hadley.nz)
-- [R studio Learning](https://resources.rstudio.com)
-- [ Google R videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
-- [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
-- [Introduction to Data Science](https://beanumber.github.io/sds192/index.html)
-- [Efficient R programming](https://csgillespie.github.io/efficientR/)
-- [Statistical inference via data science](https://moderndive.com) - moderndive 
-- [R for data science](https://r4ds.had.co.nz)
-- [Exploratory data analysis with R](https://bookdown.org/rdpeng/exdata/)
-- [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
-- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop) - :star: good stats stuff here too
-
-
-
-
-
-
-
-
-
-
 ### Books
 #### Coding Books
+ -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) :star:
+- [Advanced R](https://adv-r.hadley.nz) :star:
+- [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) :star:
+- [Introduction to Data Science](https://beanumber.github.io/sds192/index.html) :star:
+- [Efficient R programming](https://csgillespie.github.io/efficientR/) :star:
+- [R for data science](https://r4ds.had.co.nz) :star:
+- [Exploratory data analysis with R](https://bookdown.org/rdpeng/exdata/) :star:
+- [R-Data Analysis & Visualization In Science](https://gge-ucd.github.io/R-DAVIS/index.html) :star:
+- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop) - :star: good stats stuff here too
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/) - also some good stats tutorials here :star:
 - [some nyu courses](https://guides.nyu.edu/r) -the class materials are good (intro, wrangling, data viz). download the rmarkdown and your good. :star:
 - [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) :star:
