@@ -102,12 +102,12 @@
 - [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/) :star:
 - [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks) :star:
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) :star:
+- [Github for the R user](https://happygitwithr.com) :star:
+- [Slow Intro to R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html) :star:
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 - [Ton of R courses](https://robchavez.github.io/datascience_gallery/)
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
-- [Github for the R user](https://happygitwithr.com)
-- [Slow Intro to R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
 - [R for academics](https://bookdown.org/marius_mather/Rad/)
 - [Data science for psychologists](https://bookdown.org/hneth/ds4psy/)
 - [Importing and Cleaning Data in R: Case Studies](https://rpubs.com/williamsurles/291422)
