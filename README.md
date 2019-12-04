@@ -136,13 +136,13 @@
  - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/):star:
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/):star:
 ### Online Resources
-- [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
+- [R Tips](http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Package to Teach you R](https://swirlstats.com/)
 - [Rtips](https://twitter.com/rlangtip)
 - [Cool R shiny apps](http://wiki.mgto.org/doku.php/r_shiny_apps)
 - [RWeekly](https://rweekly.org)
-- [CRANberries] (http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
+- [CRANberries](http://dirk.eddelbuettel.com/cranberries/about/) - info about new packages
 - [R FAQ](https://stackoverflow.com/questions/tagged/r-faq)
 - [How to get help in R](https://stackoverflow.com/questions/15289995/how-to-get-help-in-r)
 - [Most useful R tricks](https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick)
