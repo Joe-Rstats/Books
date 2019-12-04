@@ -1,5 +1,9 @@
 # R & Stats Books and Websites that I think are good.
 
+# Note about Stars
+
+No Star = Good
+Star = Excellent
 
 ## Contents
 - [R with Stats](#R-With-Stats)
@@ -19,20 +23,18 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
-- [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info.
+- [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. :star:
+- [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R. :star:
+- [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd :star:
+- [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling. :star:
+- [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html) :star:
+
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
-- [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd
-- [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
-- [Basics of correlation and regression in R](https://psu-psychology.github.io/r-bootcamp-2018/talks/correlation_regression.html)
 - [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/) - Most advanced it gets is OLS.
 - [Regression analysis in R](https://raw.githack.com/uo-ec607/lectures/master/08-regression/08-regression.html)
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
     - Notes (http://edrub.in/ARE212/index.html)
-- [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R.
-- [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html)
-- [R Models](https://m-clark.github.io/R-models/)
-- [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/)
 - [Multiple linear regression R](https://rpubs.com/bensonsyd/385183)
 - [Regression Diagnostics](https://socialsciences.mcmaster.ca/jfox/Books/RegressionDiagnostics/index.html)
 - [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html)
@@ -190,6 +192,7 @@
 
 ### List of R Code
 #### Statistical Code
+- [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/) - This is very good. Basically shows how to do code for common things we do.
 #### R Code
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
