@@ -170,17 +170,17 @@
 
 
 ### Statistics Without R
-- [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)
-- [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
-- [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
-- [StatTrek](https://stattrek.com)
-- [Introduction to mathematics for political scientists](http://brendancooley.com/imps2019/)
-- [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)
-- [Econometric Academy](https://sites.google.com/site/econometricsacademy/)
-- [JB statistics](https://www.jbstatistics.com)
-- [statquest](https://statquest.org/video-index/)
-- [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)
-- [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)
+- [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)- :star:
+- [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)- :star:
+- [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)- :star:
+- [StatTrek](https://stattrek.com)- :star:
+- [Introduction to mathematics for political scientists](http://brendancooley.com/imps2019/)- :star:
+- [Good List of workshops from Cornell](http://www.cscu.cornell.edu/workshops/catalog.php)- :star:
+- [Econometric Academy](https://sites.google.com/site/econometricsacademy/)- :star:
+- [JB statistics](https://www.jbstatistics.com)- :star:
+- [statquest](https://statquest.org/video-index/)- :star:
+- [GLM and multilevel models](https://bookdown.org/roback/bookdown-bysh/)- :star:
+- [Duke Math Camp](http://people.duke.edu/~das76/Mathematics%20for%20Political%20and%20Social%20Research%20Syllabus_Siegel.pdf)- :star:
 
 
 
