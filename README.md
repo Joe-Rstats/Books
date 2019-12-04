@@ -33,6 +33,9 @@
 - [Time Series R](https://rpubs.com/bensonsyd/389857) :star:
 - [Simple linear regression](https://rpubs.com/bensonsyd/364877) :star:
 - [more nyu r learning](https://nyu-cdsc.github.io/learningr/):star:
+- [Answering questions with Data](https://crumplab.github.io/statistics/) :star: - Doesn't even get to OLS, but what it does go over, it does well.
+- [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression):star:
+- [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
 
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
@@ -46,11 +49,8 @@
 
 
 
-- [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
-- [Answering questions with Data](https://crumplab.github.io/statistics/)
-- [Linear models and linear mixed effects models in R: Tutorial 2] (http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial2.pdf)
-- [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression)
-- [Data Science Specialization](https://datasciencespecialization.github.io)
+
+
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read)
 - [Wrangling categorical data in R](https://peerj.com/preprints/3163/)
 - [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
