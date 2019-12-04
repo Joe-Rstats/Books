@@ -23,6 +23,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
+- [UCLA R & Stats Website](https://stats.idre.ucla.edu/) :star: :star: :star:
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. :star:
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R. :star:
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd :star:
@@ -39,6 +40,8 @@
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read) - Very basic, but what it describes, it describes it well. Doesnt even do OLS. :star:
 - [GLM](https://data.princeton.edu/wws509/R) - The R logs are quite good :star:
 - [MSc Conversion in Psychological Studies/Science](https://psyteachr.github.io/msc-conv-f2f/) :star:
+- [Quick-R](https://www.statmethods.net/) :star:
+- [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf) :star:
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -52,11 +55,9 @@
 
 
 
-- [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
-- [Quick-R](https://www.statmethods.net/)
-- [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)
-- [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf)
-- [UCLA R & Stats Website](https://stats.idre.ucla.edu/)
+
+
+
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
 - [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2018/modules.html)
 - [ton of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
@@ -202,7 +203,7 @@
 
 
 ### Statistics Without R
-
+- [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
