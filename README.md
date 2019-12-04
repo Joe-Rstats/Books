@@ -28,6 +28,12 @@
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd :star:
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling. :star:
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html) :star:
+- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html) :star:
+- [GLM](https://rpubs.com/davoodastaraky/GLM) :star:
+- [Time Series R](https://rpubs.com/bensonsyd/389857) :star:
+- [Simple linear regression](https://rpubs.com/bensonsyd/364877) :star:
+- [more nyu r learning](https://nyu-cdsc.github.io/learningr/):star:
+
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -36,18 +42,10 @@
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
     - Notes (http://edrub.in/ARE212/index.html)
 - [Multiple linear regression R](https://rpubs.com/bensonsyd/385183)
-- [Regression Diagnostics](https://socialsciences.mcmaster.ca/jfox/Books/RegressionDiagnostics/index.html)
-- [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html)
-- [R course with data teaching](https://biol607.github.io/schedule.html)
--[AN R COMPANION FOR THE HANDBOOK OF BIOLOGICAL STATISTICS](http://rcompanion.org/documents/RCompanionBioStatistics.pdf) - Whoa, a lot here
-- [GLM](https://rpubs.com/davoodastaraky/GLM)
--[Logistic regression in R](https://rpubs.com/rslbliss/r_logistic_ws)
-- [Time Series R](https://rpubs.com/bensonsyd/389857)
-- [Simple linear regression](https://rpubs.com/bensonsyd/364877)
-- [Good pubs here](https://rpubs.com/brouwern/)
-- [Statistics in r](https://crumplab.github.io/psyc7709/Presentations/Statistics.html)
-- [programming for psychologists](https://crumplab.github.io/programmingforpsych/simulating-and-analyzing-data-in-r.html#running-a-between-subjects-anova-for-a-2x2-factorial-design)
-- [more nyu r learning](https://nyu-cdsc.github.io/learningr/)
+
+
+
+
 - [Linear models and linear mixed effects models in R: Tutorial 1](http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial1.pdf)
 - [Answering questions with Data](https://crumplab.github.io/statistics/)
 - [Linear models and linear mixed effects models in R: Tutorial 2] (http://www.bodowinter.com/uploads/1/2/9/3/129362560/bw_lme_tutorial2.pdf)
