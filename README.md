@@ -52,7 +52,12 @@
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html) :star:
 - [Intro to Econometrics with R](https://www.econometrics-with-r.org/) :star:
 - [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf) :star:
-
+- [some useful R tutorials here](http://www.econ.uiuc.edu/~econ508/e-ta.html) :star:
+- [Linear Regression with R](https://dss.princeton.edu/training/Regression101R.pdf) :star:
+- [Intro to data analysis](https://github.com/UCIDataScienceInitiative/IDA-with-R) :star:
+- [R and Statistics](http://www.dartistics.com/index.html) :star:
+- [Getting Started in R](https://rcatlord.github.io/GSinR/) :star:
+- [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/) :star:
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -65,28 +70,12 @@
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 - [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
-
-
-
-
-
-
-- [some useful R tutorials here](http://www.econ.uiuc.edu/~econ508/e-ta.html)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
-- [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
-- [Linear Regression with R](https://dss.princeton.edu/training/Regression101R.pdf)
-- [Helpful Stat links](http://www.princeton.edu/~otorres/Stata/statnotes)
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
-- [Good youtube R Class](https://www.youtube.com/channel/UCstAS6IpgYgZ9Cvcag_YlCQ/featured)
-- [Intro to data analysis](https://github.com/UCIDataScienceInitiative/IDA-with-R)
-- [R and Statistics](http://www.dartistics.com/index.html)
 - [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
-- [STA130 Course Content](https://ntaback.github.io/UofT_STA130/course_content.html)
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
-- [Getting Started in R](https://rcatlord.github.io/GSinR/)
-- [The 5 day regression course](https://www.kaggle.com/rtatman/the-5-day-regression-challenge)
-- [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/)
-- [Some good codd here](https://designingexperiments.com)
+
+
 ### Books
 
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
