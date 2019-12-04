@@ -155,20 +155,18 @@
 - [R Codebook](http://www.cookbook-r.com) :star:
 - [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/) - This is very good. Basically shows how to do code for common things we do.:star:
 - [Learn R](https://learnxinyminutes.com/docs/r/):star:
-#### R Code
-- [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
+- [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf) :star:
+- [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) :star:
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
-- [R Functions for Reegression Analysis] (https://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf)
-- [Abbreviations of R Commands Explained](http://jeromyanglim.blogspot.com/2010/05/abbreviations-of-r-commands-explained.html)
-- [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
-- [Psychometric Models and Methods](https://cran.r-project.org/web/views/Psychometrics.html)
-- [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)
-- [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)
-- [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)
-- [Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf)
-- [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html)
-- [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)
-- [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+#### R Code
+- [Good R reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)- :star:
+- [Psychometric Models and Methods](https://cran.r-project.org/web/views/Psychometrics.html)- :star:
+- [How to do Econometric Stats in R](https://cran.r-project.org/web/views/Econometrics.html)- :star:
+- [How to do 604 Stats in R](https://cran.r-project.org/web/views/SocialSciences.html)- :star:
+- [How to deal with missing data in R](https://cran.r-project.org/web/views/MissingData.html)- :star:
+- [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html) - :star:
+- [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)- :star:
+- [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)- :star:
 
 
 ### Statistics Without R
