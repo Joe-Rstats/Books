@@ -132,9 +132,9 @@
 - [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 #### Data Visualization Books
 - [some nyu courses](https://guides.nyu.edu/r) -the class materials are good (intro, wrangling, data viz). download the rmarkdown and your good. :star:
- - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
- - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
-- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+ - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953):star:
+ - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/):star:
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/):star:
 ### Online Resources
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
@@ -153,8 +153,8 @@
 ### List of R Code
 #### Statistical Code
 - [R Codebook](http://www.cookbook-r.com) :star:
-- [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/) - This is very good. Basically shows how to do code for common things we do.
-- [Learn R](https://learnxinyminutes.com/docs/r/)
+- [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/) - This is very good. Basically shows how to do code for common things we do.:star:
+- [Learn R](https://learnxinyminutes.com/docs/r/):star:
 #### R Code
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
