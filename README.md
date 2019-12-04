@@ -31,9 +31,13 @@
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html) :star:
 - [Biol 355/356: Intro to Data Science for Biology](https://biol355.github.io/schedule.html) :star:
 - [GLM](https://rpubs.com/davoodastaraky/GLM) :star:
+- [Learning Statistics With R](https://learningstatisticswithr.com/book/) :star:
 - [Time Series R](https://rpubs.com/bensonsyd/389857) :star:
 - [Simple linear regression](https://rpubs.com/bensonsyd/364877) :star:
 - [more nyu r learning](https://nyu-cdsc.github.io/learningr/):star:
+- [Math Prefresher for poli sci studnets](https://iqss.github.io/prefresher/) :star:
+- [Advanced statistics course](http://statstools.com/learn/advanced-statistics/) :star:
+  - [Notes to accompany the videos](https://osf.io/dnuyv/) :star:
 - [Answering questions with Data](https://crumplab.github.io/statistics/) :star: - Doesn't even get to OLS, but what it does go over, it does well.
 - [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression):star:
 - [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
@@ -45,7 +49,9 @@
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats :star:
 - [Organized list of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube) :star:
 - [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg) :star:
-
+- [Econometrics in R](https://tyleransom.github.io/econometricslabs.html) :star:
+- [Intro to Econometrics with R](https://www.econometrics-with-r.org/) :star:
+- [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf) :star:
 
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
@@ -58,21 +64,13 @@
 - [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
-
-- [Statistical Inference for data science](https://rpubs.com/rellison/89834)
-- [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
-- [Advanced statistics course](http://statstools.com/learn/advanced-statistics/)
-- [Importing and Cleaning Data in R: Case Studies](https://rpubs.com/williamsurles/291422)
-- [Introduction to Econometrics with R](https://scpoecon.github.io/ScPoEconometrics/)
-- [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/heteroskedasticity.html)
-- [Intro to Econometrics with R](https://www.econometrics-with-r.org/)
 - [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
-- [Learning Statistics With R](https://learningstatisticswithr.com/book/)
-- [Math Prefresher for poli sci studnets](https://iqss.github.io/prefresher/)
-- [Logit, probit and multinomial logit in R](https://dss.princeton.edu/training/LogitR101.pdf)
-- [IcebreakR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
-- [Ton of R courses](https://robchavez.github.io/datascience_gallery/)
+
+
+
+
+
+
 - [some useful R tutorials here](http://www.econ.uiuc.edu/~econ508/e-ta.html)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
 - [Everything UCLA has to offer about R](https://stats.idre.ucla.edu/r/)
@@ -133,11 +131,14 @@
 - [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 ### Books
 #### Coding Books
+- [Ton of R courses](https://robchavez.github.io/datascience_gallery/)
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
 - [Github for the R user](https://happygitwithr.com)
 - [Slow Intro to R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html)
 - [R for academics](https://bookdown.org/marius_mather/Rad/)
 - [Data science for psychologists](https://bookdown.org/hneth/ds4psy/)
+- [Importing and Cleaning Data in R: Case Studies](https://rpubs.com/williamsurles/291422)
 ##### R Markdown
 - [How to start a bookdown book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
 - [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
