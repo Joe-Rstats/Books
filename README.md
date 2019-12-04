@@ -37,6 +37,8 @@
 - [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression):star:
 - [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read) - Very basic, but what it describes, it describes it well. Doesnt even do OLS. :star:
+- [GLM](https://data.princeton.edu/wws509/R) - The R logs are quite good :star:
+
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -49,10 +51,6 @@
 
 
 
-
-- [Ton of slides](https://github.com/rstudio-education/-box) - Need to be run in R
-- [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
-- [Ton of good stuff here](https://data.princeton.edu)
 - [R book](https://psyteachr.github.io/msc-conv-f2f/)
 - [R Cookbook](http://rpubs.com/collnell/Rcookbook)
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
