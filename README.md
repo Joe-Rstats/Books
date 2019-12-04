@@ -36,7 +36,7 @@
 - [Answering questions with Data](https://crumplab.github.io/statistics/) :star: - Doesn't even get to OLS, but what it does go over, it does well.
 - [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression):star:
 - [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
-
+- [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read) - Very basic, but what it describes, it describes it well. Doesnt even do OLS. :star:
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -45,15 +45,11 @@
 - [Good Econometric Course](https://github.com/edrubin/EC525S19)
     - Notes (http://edrub.in/ARE212/index.html)
 - [Multiple linear regression R](https://rpubs.com/bensonsyd/385183)
-
-
-
-
-
-
-- [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read)
-- [Wrangling categorical data in R](https://peerj.com/preprints/3163/)
 - [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
+
+
+
+
 - [Ton of slides](https://github.com/rstudio-education/-box) - Need to be run in R
 - [Regression and Other stories](https://avehtari.github.io/ROS-Examples/#by_chapters) - Gelman's sequal of his great book
 - [Ton of good stuff here](https://data.princeton.edu)
@@ -208,6 +204,7 @@
 
 
 ### Statistics Without R
+
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 - [StatTrek](https://stattrek.com)
