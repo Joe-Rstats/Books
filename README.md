@@ -38,7 +38,7 @@
 - [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read) - Very basic, but what it describes, it describes it well. Doesnt even do OLS. :star:
 - [GLM](https://data.princeton.edu/wws509/R) - The R logs are quite good :star:
-
+- [MSc Conversion in Psychological Studies/Science](https://psyteachr.github.io/msc-conv-f2f/) :star:
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -51,8 +51,7 @@
 
 
 
-- [R book](https://psyteachr.github.io/msc-conv-f2f/)
-- [R Cookbook](http://rpubs.com/collnell/Rcookbook)
+
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Quick-R](https://www.statmethods.net/)
 - [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)
@@ -169,6 +168,7 @@
  - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 
 ### Online Resources
+- [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
 - [Package to Teach you R](https://swirlstats.com/)
 - [Rtips](https://twitter.com/rlangtip)
