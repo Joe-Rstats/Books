@@ -42,6 +42,11 @@
 - [MSc Conversion in Psychological Studies/Science](https://psyteachr.github.io/msc-conv-f2f/) :star:
 - [Quick-R](https://www.statmethods.net/) :star:
 - [An Introduction to R](http://personality-project.org/r/short_courses/aps-short.pdf) :star:
+- [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats :star:
+- [Organized list of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube) :star:
+- [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg) :star:
+
+
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -51,21 +56,9 @@
     - Notes (http://edrub.in/ARE212/index.html)
 - [Multiple linear regression R](https://rpubs.com/bensonsyd/385183)
 - [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
-
-
-
-
-
-
-
-- [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats
-- [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2018/modules.html)
-- [ton of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
-- [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg)
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
-- [Using R to Teach Econometrics](https://robjhyndman.com/papers/R.pdf)
-- [Applied Econometrics](http://www.econ.uiuc.edu/~econ472/)
+
 - [Statistical Inference for data science](https://rpubs.com/rellison/89834)
 - [Econometrics in R](https://tyleransom.github.io/econometricslabs.html)
 - [Advanced statistics course](http://statstools.com/learn/advanced-statistics/)
