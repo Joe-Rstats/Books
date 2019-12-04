@@ -21,6 +21,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
+- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/) - also some good stats tutorials here :star:
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/) :star: :star: :star:
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. :star:
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R. :star:
@@ -57,6 +58,7 @@
 - [Getting Started in R](https://rcatlord.github.io/GSinR/) :star:
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/) :star:
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) :star:
+- [Learning Statistics in R](https://ademos.people.uic.edu/index.html) :star:
 
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
@@ -90,29 +92,31 @@
 - [R for data science](https://r4ds.had.co.nz)
 - [Exploratory data analysis with R](https://bookdown.org/rdpeng/exdata/)
 - [R Davis](https://gge-ucd.github.io/R-DAVIS/index.html)
-- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop)
-- [Advanced R workshop](https://github.com/UCIDataScienceInitiative/AdvancedRWorkshop)
-- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/)
-- [some nyu courses](https://guides.nyu.edu/r)
-- [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
-- [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
-- [RStudio Primers](https://rstudio.cloud/learn/primers)
-- [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well.
-- [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/)
-- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) 
-- [Thee Undergraduare Guide to R](https://2dc76119-a-62cb3a1a-s-sites.googlegroups.com/site/undergraduateguidetor/manual-files/undergradguidetoR.pdf?attachauth=ANoY7cprKuOTqDa7cWdwB-afAYvksPkZ6i8Y3ZxSgLhOTwMjbNsd8qDAJdxyrGHgBUtplleycdqaxdXVhMDqDcME8BMRPo7V18T1UwRrnxn_NPDWX931OE3x77puUHbDxtRirvRg1T3WENZ1H-N2PlYJIUrfR5qlLBG9BAIi2ZRJJnMgTwav_uCpDgxhjwCgJFOHIwY_5Im9FYhpqQ5NvEEjInA90bIUapE6WCw_k3xmLmu18bC-o8Yq6hDNUeO3aTSiOJuYFYBY&attredirects=1)
-- [Analysis of Categorical Data with R](http://www.chrisbilder.com/stat875/chapter.html
-- [Learn R](https://learnxinyminutes.com/docs/r/)
-- [Data wrangling, exploration, and analysis with R](https://stat545.com)
-- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
-- [R Bootcamp](https://github.com/rstudio-education/bootcamper)
-- [R Codebook](http://www.cookbook-r.com)
-- [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/)
-- [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks)
-- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-- [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
+- [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop) - :star: good stats stuff here too
+
+
+
+
+
+
+
+
+
+
 ### Books
 #### Coding Books
+- [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/) - also some good stats tutorials here :star:
+- [some nyu courses](https://guides.nyu.edu/r) -the class materials are good (intro, wrangling, data viz). download the rmarkdown and your good. :star:
+- [An introduction to Data Cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) :star:
+- [RStudio Primers](https://rstudio.cloud/learn/primers) :star:
+- [R For Psychological Science](https://psyr.org/) - Goes over basic R stuff, like loops, really well. :star:
+- [an introduction to R for non-programmers](http://swcarpentry.github.io/r-novice-gapminder/) :star:
+- [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) :star:
+- [Data wrangling, exploration, and analysis with R](https://stat545.com) :star:
+- [Data Cleaning](https://www.kaggle.com/rtatman/data-cleaning-challenge-json-txt-and-xls/) :star:
+- [Data cleaning tricks](https://github.com/underthecurve/r-data-cleaning-tricks) :star:
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) :star:
+- [Intro to R](https://billpetti.github.io/Crash_course_in_R/)
 - [Ton of R courses](https://robchavez.github.io/datascience_gallery/)
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 - [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
@@ -141,9 +145,10 @@
 - [R markdwon for scientists](https://rmd4sci.njtierney.com)
 - [R markdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 #### Data Visualization Books
+- [some nyu courses](https://guides.nyu.edu/r) -the class materials are good (intro, wrangling, data viz). download the rmarkdown and your good. :star:
  - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953)
  - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
-
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 ### Online Resources
 - [R Tips] (http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
@@ -161,7 +166,9 @@
 
 ### List of R Code
 #### Statistical Code
+- [R Codebook](http://www.cookbook-r.com) :star:
 - [R code examples for a number of common data analysis tasks](http://dwoll.de/rexrepos/) - This is very good. Basically shows how to do code for common things we do.
+- [Learn R](https://learnxinyminutes.com/docs/r/)
 #### R Code
 - [a compendium of r commands to teach statistics](http://mosaic-web.org/go/Master-Core.pdf)
 - [Common R commands used in Data Analysis and Statistical Inference](http://www2.stat.duke.edu/~mc301/R/Rcommands.pdf)
