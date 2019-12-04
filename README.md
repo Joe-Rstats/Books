@@ -2,8 +2,8 @@
 
 # Note about Stars
 
-No Star = Good
-Star = Excellent
+- No Star = Good
+- Star = Excellent
 
 ## Contents
 - [R with Stats](#R-With-Stats)
