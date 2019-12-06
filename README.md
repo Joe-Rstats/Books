@@ -167,7 +167,7 @@
 - [How Do I?... In R](https://smach.github.io/R4JournalismBook/HowDoI.html) - :star:
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)- :star:
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)- :star:
-
+- [R <-> Stata](https://www.princeton.edu/~otorres/RStata.pdf)
 
 ### Statistics Without R
 - [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)- :star:
