@@ -26,6 +26,7 @@
 - [UCLA R & Stats Website](https://stats.idre.ucla.edu/) :star: :star: :star:
 - [University of Cincinnati R programming guide](http://uc-r.github.io) - Click on top left to see all Info. :star:
 - [Using R for introductory econometircs](http://www.urfie.net/read/mobile/index.html#p=1) - SHowing how to do everything in wooldridge in R. :star:
+-https://iqss.github.io/prefresher/
 - [Advanced quant  methods](https://tvpollet.github.io/PY0794/#course-manual) - The courses (1-11) are very well done. Worth going through the slides and .rmd :star:
 - [R workshops from harvard](https://dss.iq.harvard.edu/workshop-materials#widget-1) - Four short and concise courses. Regression, graphics, data wrangling. :star:
 - [Categorical Regression Models](https://m-clark.github.io/docs/logregmodels.html) :star:
