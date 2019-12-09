@@ -40,6 +40,7 @@
 - [Advanced statistics course](http://statstools.com/learn/advanced-statistics/) :star:
   - [Notes to accompany the videos](https://osf.io/dnuyv/) :star:
 - [Answering questions with Data](https://crumplab.github.io/statistics/) :star: - Doesn't even get to OLS, but what it does go over, it does well.
+- https://data.princeton.edu/wws509/R
 - [Regression Models for Data science in R](https://leanpub.com/regmods/read#leanpub-auto-poisson-regression):star:
 - [Data Science Specialization Course notes](http://sux13.github.io/DataScienceSpCourseNotes/) - :star:
 - [Statistical Inference for data science](https://leanpub.com/LittleInferenceBook/read) - Very basic, but what it describes, it describes it well. Doesnt even do OLS. :star:
