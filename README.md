@@ -60,7 +60,7 @@
 - [YaRrr the pirates guide to R](https://bookdown.org/ndphillips/YaRrr/) :star:
 - [Interpreting ols output in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R) :star:
 - [Learning Statistics in R](https://ademos.people.uic.edu/index.html) :star:
-
+- https://data.princeton.edu/R/GLMs
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
 - [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/) - Most advanced it gets is OLS.
