@@ -191,7 +191,8 @@
 
 
 
-
+## other
+- [Version control w git hub, learn it ehre](https://swcarpentry.github.io/git-novice/)
 
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
