@@ -21,6 +21,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
+- [NYU carpentry - more](https://datacarpentry.org/r-socialsci/) - episodes
 - [NYU carpentry - good] (https://swcarpentry.github.io/r-novice-inflammation/03-loops-R/index.html) - click on episodes.
 - [Intro to R Workshop](https://github.com/UCIDataScienceInitiative/IntroR_Workshop) - :star: good stats stuff here too
 - [R Bootcamp](https://www.jaredknowles.com/r-bootcamp/) - also some good stats tutorials here :star:
