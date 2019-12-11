@@ -176,6 +176,7 @@
 - [R <-> Stata](https://www.princeton.edu/~otorres/RStata.pdf)
 
 ### Statistics Without R
+- [good stuff in courses](https://www3.nd.edu/~rwilliam/)
 - [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)- :star:
 - [Basic Statistics](https://crumplab.github.io/statistics/foundations-for-inference.html#the-crump-test)- :star:
 - [Advanced Data Analysisfrom an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)- :star:
