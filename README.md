@@ -87,6 +87,7 @@
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
 - [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
 - http://www.stephenpettigrew.com/r/
+- [Open data science masters](http://datasciencemasters.org)
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
 - [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
