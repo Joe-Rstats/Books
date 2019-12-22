@@ -86,7 +86,7 @@
 - [Modeling Social Data](http://modelingsocialdata.org/syllabus/)
 - [(Very) basic steps to weight a survey sample](https://bookdown.org/jespasareig/Book_How_to_weight_a_survey/)
 - [Step by Step how to analyze public datasets](http://asdfree.com) - includes ANES
-
+- [Intro to data science](https://rafalab.github.io/dsbook/importing-data.html)
 ## R Without Stats
 ### Books
 #### Coding Books
