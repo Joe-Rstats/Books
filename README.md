@@ -145,6 +145,7 @@
  - [R graphics - an idiots guide](http://rpubs.com/SusanEJohnston/7953):star:
  - [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/):star:
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/):star:
+- [Data viz book] (http://socviz.co/workgeoms.html#label-outliers)
 ### Online Resources
 - [R Tips](http://pj.freefaculty.org/R/Rtips.html) - Basically R FAQ.
 - [Various R tutorials](https://ourcodingclub.github.io/tutorials/)
