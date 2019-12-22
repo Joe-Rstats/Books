@@ -93,6 +93,7 @@
 ## R Without Stats
 ### Books
 #### Coding Books
+- [R for the rest of us](https://rfortherestofus.com/courses/getting-started/)
  -[shiny](https://laderast.github.io/gradual_shiny/)
 - [What they forgot to teach you about R](https://rstats.wtf)
 - [Nice R and data viz courses](https://www.yan-holtz.com/teaching)
