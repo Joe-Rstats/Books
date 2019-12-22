@@ -213,6 +213,7 @@
 - [Links to r resources](https://awesomeopensource.com/projects/r?categoryPage=2)
  - [Courses](https://docs.google.com/spreadsheets/d/1LtaeWPzEhRiy-kdNZBn0gPwc6aTYkWtt6Cau6PzcXuo/edit#gid=0)
  - [600 R websites](https://www.datasciencecentral.com/profiles/blogs/600-websites-about-r)
+ - [ML tutorioal](https://koalaverse.github.io/machine-learning-in-R/)
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
 
