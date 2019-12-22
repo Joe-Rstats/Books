@@ -177,7 +177,7 @@
 - [R Cheat Sheet](https://www.sas.upenn.edu/~baron/from_cattell/refcard.pdf)- :star:
 - [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)- :star:
 - [R <-> Stata](https://www.princeton.edu/~otorres/RStata.pdf)
-
+- [Modern R with tidyverse](https://b-rodrigues.github.io/modern_R/graphs.html#resources)
 ### Statistics Without R
 - [good stuff in courses](https://www3.nd.edu/~rwilliam/)
 - [Math Prefresher for political science students](https://bookdown.org/kuriwaki/prefresher/prefresher.pdf)- :star:
