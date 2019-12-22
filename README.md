@@ -83,7 +83,8 @@
 - [Data analysis and predictin algorithms with r](https://rafalab.github.io/dsbook/)
 - [Using R for Data Analysis and Graphics](https://cran.r-project.org/doc/contrib/usingR.pdf)
 - [Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
-- [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)
+- [Applied Econometrics with R](https://eeecon.uibk.ac.at/~zeileis/teaching/AER/)-
+- [statstools](http://statstools.com/learn/)
 - [Good Youtube two minute tutorials](https://www.youtube.com/playlist?list=PLcgz5kNZFCkzSyBG3H-rUaPHoBXgijHfC)
 - [Purdue R tutorial](https://www.stat.purdue.edu/scs/docs/R_Introduction.pdf)
 - [Quantitative Analysis - Applied Inferential Statistics](https://slu-soc5050.github.io)
