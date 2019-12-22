@@ -199,6 +199,7 @@
 
 
 ## other
+- [Machine learning course](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [Version control w git hub, learn it ehre](https://swcarpentry.github.io/git-novice/)
 
 ## Research Design
