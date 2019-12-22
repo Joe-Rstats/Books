@@ -90,6 +90,7 @@
 ## R Without Stats
 ### Books
 #### Coding Books
+- [Nice R and data viz courses](https://www.yan-holtz.com/teaching)
  -[ An introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf) :star:
 - [Advanced R](https://adv-r.hadley.nz) :star:
 - [ R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) :star:
