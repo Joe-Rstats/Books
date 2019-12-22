@@ -72,6 +72,7 @@
 - [Learning Statistics in R](https://ademos.people.uic.edu/index.html) :star:
 - https://data.princeton.edu/R/GLMs
 - [Practical Regression and Anova using R](https://people.bath.ac.uk/jjf23/book/pra.pdf) - Old but seems like it would still be useful.
+- [Interesting book](https://rafalab.github.io/dsbook/random-variables.html)
 - [R course] (https://github.com/uo-ec607/lectures)
 - [Quantitative Research Methods for Political Science, Public Policy and Public Administration: 4th Edition With Applications in R](https://bookdown.org/ripberjt/qrmbook/)
 - [Introduction to Quantitative Methods in R](https://bookdown.org/ejvanholm/Textbook/) - Most advanced it gets is OLS.
