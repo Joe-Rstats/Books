@@ -203,7 +203,7 @@
 ## other
 - [Machine learning course](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [Version control w git hub, learn it ehre](https://swcarpentry.github.io/git-novice/)
-
+- [Links to r resources](https://awesomeopensource.com/projects/r?categoryPage=2)
 ## Research Design
 - [Research design course from LSE](https://thomasleeper.com/designcourse/)
 
