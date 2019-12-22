@@ -56,6 +56,7 @@
 - [Data Skills for Reproducible Scinece](https://psyteachr.github.io/msc-data-skills/index.html) - Goes over working with Data and Stats :star:
 - [Interactive data viz](https://plotly-r.com)
 - [Nice R Site](https://preludeinr.com)
+- [Good stuff here](https://github.com/pmaji/data-science-toolkit)
 - https://projects.iq.harvard.edu/gov2001
 - [Organized list of good youtube videos](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube) :star:
 - [Good youtube series](https://www.youtube.com/channel/UCRJyvz_aLmJLFimTZ9kH1Lg) :star:
