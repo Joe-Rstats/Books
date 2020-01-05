@@ -21,6 +21,7 @@
 - [Dissertation Websites](#Dissertation-Websites)
 
 ## R With Stats
+- [ Math camp] (http://www.csss.washington.edu/academics/math-camp/lectures)
 - [nice courses](https://ditraglia.com)
 - [useful](https://faculty.washington.edu/cadolph/)
 - [Intro to linear regression in R](https://stats.idre.ucla.edu/r/seminars/introduction-to-regression-in-r/)
