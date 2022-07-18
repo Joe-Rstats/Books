@@ -1,3 +1,18 @@
+
+#####2022 VERSION FOR LEARNING R####
+### Three Stars - Excellent, Two Stars - Great, One Star - Good, No Stars - Still useful, but save for last##
+
+[Hands On Programming in R](https://rstudio-education.github.io/hopr/) :star: :star:
+[Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html) :star: :star: :star:
+
+
+
+
+
+
+###########STILL GOOD, MADE IN 2019###
+
+
 # R & Stats Books and Websites that I think are good.
 
 # Note about Stars
