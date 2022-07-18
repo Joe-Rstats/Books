@@ -2,14 +2,14 @@
 # 2022 VERSION FOR LEARNING R
 # Note about Stars
 
--Three Stars = Excellent
--Two Stars = Great
--One Star = Good
+- Three Stars = Excellent
+- Two Stars = Great
+- One Star = Good
 - No Star = Still useful, but save for last
 
 ## Learning R
-[Hands On Programming in R](https://rstudio-education.github.io/hopr/) :star: :star:
-[Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html) :star: :star: :star:
+- [Hands On Programming in R](https://rstudio-education.github.io/hopr/) :star: :star:
+- [Slow R](https://psu-psychology.github.io/r-bootcamp-2019/talks/slow-r.html) :star: :star: :star:
 
 
 
